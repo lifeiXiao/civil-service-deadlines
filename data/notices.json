@@ -110,16 +110,8 @@
     "title": "内蒙古自治区党政群机关（参公单位）2026年度考试录用公务员专业测试有关事宜的公告",
     "url": "http://www.impta.com.cn/dangzhengqungwy/2026518173850.asp",
     "content_hash": "832d2358b542d55b98f02f2ccf80dac5f2d42019b437398a7a6428843151ccfe",
-    "events": {
-      "admission": {
-        "start": "2026-05-18",
-        "end": null,
-        "source_url": "http://www.impta.com.cn/dangzhengqungwy/2026518173850.asp",
-        "evidence": "《专业能力测试准考证》打印进入\n内蒙古自治区公务员局\n2026年5月18日\n〖关闭窗口〗\n政务公开\n新闻快讯\n通知公告\n机构简介\n政策法规\n资源下载\n办事指南\n友 情 链 接 \n ---省市考试中心--- \n 中国人事考试网 \n 山东人事考试中心 \n 北京市人事考试网 \n 上海市职业能力考试网 \n 山西省人事考试网 \n 天津人事考试网 \n 辽宁人事考试网 \n 吉林",
-        "verification": "auto"
-      }
-    },
-    "review": false,
+    "events": {},
+    "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
     "last_seen_at": "2026-11-17T09:37:41+08:00",
     "conflicts": []

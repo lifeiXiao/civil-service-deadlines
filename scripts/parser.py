@@ -139,8 +139,11 @@ def extract_events(text, url):
                 continue
             if key == "registration" and re.search(r"调剂|职位报名|改报|补报|补充录用", window):
                 continue
-            if key == "admission" and not re.search(r"时间|请于|可于|应于|自|从|至", window):
-                continue
+            if key == "admission":
+                if re.search(r"专业能力测试|面试准考证|资格复审", window):
+                    continue
+                if not re.search(r"时间|请于|可于|应于|于\s*20\d{2}|(?:自|从)\s*20\d{2}", window):
+                    continue
             if key == "payment" and (re.search(r"缴费确认后|缴费成功后|准考证", window)):
                 continue
             tokens = date_tokens(window)
@@ -151,6 +154,8 @@ def extract_events(text, url):
                 continue
             if key == "exam":
                 tokens = tokens[:1]
+                # Different papers have different hours; the common stage is a date.
+                tokens[0] = {**tokens[0], "value": tokens[0]["value"][:10], "precision": "date"}
             first, last = tokens[0], tokens[-1] if len(tokens) > 1 else None
             if key in ("registration", "payment") and last is None:
                 continue

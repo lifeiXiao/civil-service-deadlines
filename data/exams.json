@@ -103,7 +103,7 @@
     "announcement_url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsgwyks/zkgg/202601/t20260112_5853207.shtml",
     "events": {
       "exam": {
-        "start": "2026-03-14T09:00:00+08:00",
+        "start": "2026-03-14",
         "end": null,
         "source_url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsgwyks/zkgg/202601/t20260112_5853207.shtml",
         "evidence": "(二)笔试时间\n2026年3月14日上午9:00-11:00  行政职业能力测验\n2026年3月14日下午14:00-16:30  申论\n2026年3月15日上午9:00-11:00  公安专业科目\n2026年3月15日上午9:00-12:00  综合知识测试\n报考人员按照准考证上确定的时间和地点参加考试",
@@ -193,23 +193,6 @@
         "verification": "manual"
       }
     }
-  },
-  {
-    "id": "neimenggu-2026",
-    "region_id": "neimenggu",
-    "year": 2026,
-    "announcement_url": "http://www.impta.com.cn/dangzhengqungwy/2026518173850.asp",
-    "events": {
-      "admission": {
-        "start": "2026-05-18",
-        "end": null,
-        "source_url": "http://www.impta.com.cn/dangzhengqungwy/2026518173850.asp",
-        "evidence": "《专业能力测试准考证》打印进入\n内蒙古自治区公务员局\n2026年5月18日\n〖关闭窗口〗\n政务公开\n新闻快讯\n通知公告\n机构简介\n政策法规\n资源下载\n办事指南\n友 情 链 接 \n ---省市考试中心--- \n 中国人事考试网 \n 山东人事考试中心 \n 北京市人事考试网 \n 上海市职业能力考试网 \n 山西省人事考试网 \n 天津人事考试网 \n 辽宁人事考试网 \n 吉林",
-        "verification": "auto"
-      }
-    },
-    "notes": [],
-    "updated_at": "2026-11-17T09:37:41+08:00"
   },
   {
     "id": "shandong-2027",

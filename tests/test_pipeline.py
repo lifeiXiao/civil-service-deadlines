@@ -30,6 +30,13 @@ class ExtractionTests(unittest.TestCase):
     def test_publisher_date_is_not_printing_date(self):
         self.assertEqual(extract_events("准考证打印进入\n某公务员局\n2026年5月18日", "https://example.gov.cn/a"), {})
 
+    def test_autonomous_region_name_does_not_count_as_time_preposition(self):
+        self.assertEqual(extract_events("《专业能力测试准考证》打印进入\n内蒙古自治区公务员局\n2026年5月18日\n政务公开", "https://example.gov.cn/a"), {})
+
+    def test_multi_paper_exam_is_a_date_not_one_paper_start_time(self):
+        event = extract_events("公共科目笔试时间为2026年3月14日上午9:00—11:00行测，下午14:00—16:30申论。", "https://example.gov.cn/a")["exam"]
+        self.assertEqual(event["start"], "2026-03-14")
+
     def test_later_position_allocation_does_not_replace_exam_registration(self):
         events = extract_events("报考者可在2026年11月1日0:00至11月7日12:00期间登录专题网站进行报名。公开调剂职位报名时间为2027年1月18日9:00至1月20日18:00。", "https://example.gov.cn/a")
         self.assertEqual(events["registration"]["start"], "2026-11-01T00:00:00+08:00")
