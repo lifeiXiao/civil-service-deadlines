@@ -1,0 +1,25 @@
+name: 补充或更正考试时间
+description: 提供官方公告链接，帮助完善考试日历
+title: '[数据] 地区 / 年度 / 时间节点'
+body:
+  - type: input
+    id: region
+    attributes:
+      label: 地区与招录年度
+      placeholder: 例如：江苏 2027
+    validations:
+      required: true
+  - type: input
+    id: official_url
+    attributes:
+      label: 官方公告链接
+      description: 请提供公务员主管部门、人社部门或政府门户网站的原文链接。
+    validations:
+      required: true
+  - type: textarea
+    id: dates
+    attributes:
+      label: 需要补充或更正的时间
+      description: 写明报名、缴费、准考证或笔试时间，以及原文中的表述。
+    validations:
+      required: true

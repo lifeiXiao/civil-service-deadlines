@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f7f8fa">
+  <meta name="description" content="集中查看国考与各省公务员考试的报名、缴费、准考证打印、笔试时间和官方公告。每日检查官网，所有日期保留来源。">
+  <title>公考日历 · 每一个重要时间，都在这里</title>
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <a class="skip" href="#main">跳到考试列表</a>
+  <header class="header">
+    <div class="header-inner">
+      <a class="brand" href="./" aria-label="公考日历首页"><span class="brand-mark" aria-hidden="true">日</span><span>公考日历<small>CIVIL SERVICE CALENDAR</small></span></a>
+      <nav aria-label="主导航"><a class="nav-active" href="#main">考试时间</a><button class="text-button" id="source-button">数据来源</button><a href="https://github.com/lifeiXiao/civil-service-deadlines" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a></nav>
+    </div>
+  </header>
+  <main class="shell" id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <div><p class="eyebrow"><span class="live-dot"></span> 国考 · 省考 · 官方信息聚合</p><h1 id="hero-title">安心备考，<br class="mobile-break">别错过<span>重要时间。</span></h1><p class="hero-description">报名、缴费、准考证、笔试。<br class="mobile-break">下一步该做什么，打开就知道。</p></div>
+      <div class="hero-date"><span id="today-date">北京时间</span><strong id="today-weekday">公考时间看板</strong><small>所有时间均为北京时间 UTC+8</small></div>
+    </section>
+    <section class="overview" aria-label="数据概览">
+      <div><span class="stat-icon">◎</span><p><strong id="region-count">32</strong><span>考试地区</span></p><small>国考 + 31 个省级地区</small></div>
+      <div><span class="stat-icon orange">◷</span><p><strong id="active-count">—</strong><span>正在办理</span></p><small>报名 / 缴费 / 准考证</small></div>
+      <div><span class="stat-icon blue">▤</span><p><strong id="verified-count">—</strong><span>已收录时间表</span></p><small id="cycle-label">按招录年度整理</small></div>
+      <div><span class="stat-icon teal">↻</span><p><strong class="small-stat">每日检查</strong></p><small id="check-time">正在读取最新数据…</small></div>
+    </section>
+    <div class="workspace">
+      <aside class="sidebar" aria-label="考试筛选">
+        <div class="sidebar-heading"><h2>选择地区</h2><button id="reset-filters" class="text-button">重置</button></div>
+        <button class="all-regions selected" id="all-regions" aria-pressed="true"><span>◎　全部地区</span><span class="count">32</span></button>
+        <div id="region-filters"></div>
+        <div class="sidebar-note"><span class="note-icon">i</span><p>只汇集公开招考信息。具体安排及调整，请以当年官方公告为准。</p></div>
+        <a class="contribute" href="https://github.com/lifeiXiao/civil-service-deadlines/issues/new?template=data.yml" target="_blank" rel="noopener noreferrer">发现遗漏或时间变更？<strong>一起完善这份日历 ↗</strong></a>
+      </aside>
+      <section class="board" aria-label="考试时间看板">
+        <div class="board-top"><div class="tabs" role="tablist" aria-label="看板内容"><button class="tab active" id="tab-all" role="tab" aria-selected="true" data-tab="all">全部考试 <span id="list-count">32</span></button><button class="tab" id="tab-favorites" role="tab" aria-selected="false" data-tab="favorites">我的关注 <span id="favorite-count">0</span></button><button class="tab" id="tab-updates" role="tab" aria-selected="false" data-tab="updates">更新动态</button></div><button class="icon-button refresh-button" id="refresh-button" title="读取最近一次云端更新的数据" aria-label="刷新最新数据">↻</button></div>
+        <div class="toolbar" id="toolbar"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索地区或考试名称" aria-label="搜索地区或考试名称"><kbd>/</kbd></label><label><span class="sr-only">招录年度</span><select id="year-select" aria-label="招录年度"></select></label><label><span class="sr-only">办理阶段</span><select id="stage-select" aria-label="办理阶段"><option value="all">全部阶段</option><option value="active">正在办理</option><option value="upcoming">有后续安排</option><option value="registration">可报名</option><option value="admission">可打印准考证</option><option value="pending">待收录时间</option></select></label></div>
+        <div class="board-caption"><p id="result-caption" aria-live="polite">正在载入考试安排…</p><button id="export-favorites" class="text-button" title="下载关注考试的日历文件">↓ 导出关注日历</button></div>
+        <div class="freshness" id="freshness" hidden></div>
+        <div id="exam-list" class="exam-list" aria-live="polite"><div class="loading">正在读取最新的考试时间…</div></div>
+        <div id="updates-list" hidden></div>
+        <p class="list-footnote" id="list-footnote">招录年度可能与笔试所在年份不同；未注明具体时刻的日期不会补设截止时间。<br>“待收录”表示本站尚未核验，不代表官方尚未发布。</p>
+      </section>
+    </div>
+    <footer><a class="footer-brand" href="./">公考日历 <span>把时间留给备考。</span></a><p>开放、免费、持续更新。<a href="https://github.com/lifeiXiao/civil-service-deadlines" target="_blank" rel="noopener noreferrer">参与维护 ↗</a></p></footer>
+  </main>
+  <dialog id="sources-dialog" aria-labelledby="sources-title"><div class="dialog-heading"><div><p class="eyebrow">透明的数据来源</p><h2 id="sources-title">每个时间，都有出处。</h2></div><button class="icon-button" id="close-dialog" aria-label="关闭数据来源">×</button></div><p class="dialog-intro">每天北京时间 07:23，由 GitHub 自动检查公开官网。网页打开时读取最新已发布的数据，不会触发官网抓取。调度可能延迟；读取受限的来源会明确标出。</p><p class="source-legend">找到公告：成功读取可解析的公告　·　读取受限：仅能访问部分页面或暂无可解析公告　·　检查失败：本轮未能读取</p><div id="source-health"></div><a class="workflow-link" href="https://github.com/lifeiXiao/civil-service-deadlines/actions" target="_blank" rel="noopener noreferrer">查看云端检查记录 ↗</a></dialog>
+  <div class="toast" id="toast" role="status" hidden></div>
+  <noscript><p class="noscript">请启用 JavaScript 查看筛选和倒计时。也可以直接查看 <a href="https://github.com/lifeiXiao/civil-service-deadlines/tree/main/data">公开数据文件</a>。</p></noscript>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

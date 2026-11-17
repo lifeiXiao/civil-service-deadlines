@@ -1,0 +1,474 @@
+[
+  {
+    "id": "national",
+    "name": "国考",
+    "group": "全国",
+    "portal": "http://bm.scs.gov.cn/",
+    "urls": [
+      "http://bm.scs.gov.cn/kl{year}/",
+      "http://www.scs.gov.cn/"
+    ],
+    "domains": [
+      "scs.gov.cn",
+      "moj.gov.cn",
+      "chinatax.gov.cn",
+      "nia.gov.cn",
+      "xinhuanet.com",
+      "sh.gov.cn"
+    ],
+    "seeds": [
+      "https://legalinfo.moj.gov.cn/zhfxfzzx/fzzxrdtj/202610/t20261014_540702.html",
+      "https://shanghai.chinatax.gov.cn/xxgk/rsxx/202610/t481764.html",
+      "https://tyjr.sh.gov.cn/shtyjrswj/sjxx/20261014/ad5df4375e4846028f0529c2b0491e39.html"
+    ]
+  },
+  {
+    "id": "beijing",
+    "name": "北京",
+    "group": "华北",
+    "portal": "https://rsj.beijing.gov.cn/bm/ztzl/gwy/",
+    "urls": [
+      "https://www.beijing.gov.cn/gongkai/rsxx/gwyzk/",
+      "https://rsj.beijing.gov.cn/bm/ztzl/gwy/"
+    ],
+    "domains": [
+      "beijing.gov.cn",
+      "bjdj.gov.cn"
+    ],
+    "seeds": [
+      "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202611/t20261109_4938567.html"
+    ]
+  },
+  {
+    "id": "tianjin",
+    "name": "天津",
+    "group": "华北",
+    "portal": "https://gklx.hrss.tj.gov.cn/",
+    "urls": [
+      "https://hrss.tj.gov.cn/jsdw/rsksw/"
+    ],
+    "domains": [
+      "tj.gov.cn"
+    ]
+  },
+  {
+    "id": "hebei",
+    "name": "河北",
+    "group": "华北",
+    "portal": "https://www.hebpta.com.cn/",
+    "urls": [
+      "https://www.hebpta.com.cn/",
+      "https://rst.hebei.gov.cn/"
+    ],
+    "domains": [
+      "hebpta.com.cn",
+      "hebei.gov.cn"
+    ]
+  },
+  {
+    "id": "shanxi",
+    "name": "山西",
+    "group": "华北",
+    "portal": "https://rst.shanxi.gov.cn/rsks/",
+    "urls": [
+      "https://rst.shanxi.gov.cn/rsks/gwyks/"
+    ],
+    "domains": [
+      "shanxi.gov.cn"
+    ]
+  },
+  {
+    "id": "neimenggu",
+    "name": "内蒙古",
+    "group": "华北",
+    "portal": "http://www.impta.com.cn/",
+    "urls": [
+      "http://www.impta.com.cn/"
+    ],
+    "domains": [
+      "impta.com.cn",
+      "nmg.gov.cn"
+    ]
+  },
+  {
+    "id": "liaoning",
+    "name": "辽宁",
+    "group": "东北",
+    "portal": "https://www.lnrsks.com/",
+    "urls": [
+      "https://www.lnrsks.com/",
+      "https://rst.ln.gov.cn/"
+    ],
+    "domains": [
+      "lnrsks.com",
+      "ln.gov.cn"
+    ]
+  },
+  {
+    "id": "jilin",
+    "name": "吉林",
+    "group": "东北",
+    "portal": "https://www.jlgwyks.cn/",
+    "urls": [
+      "https://www.jlgwyks.cn/"
+    ],
+    "domains": [
+      "jlgwyks.cn",
+      "jl.gov.cn"
+    ]
+  },
+  {
+    "id": "heilongjiang",
+    "name": "黑龙江",
+    "group": "东北",
+    "portal": "https://www.hljsgwy.org.cn/",
+    "urls": [
+      "https://www.hljsgwy.org.cn/"
+    ],
+    "domains": [
+      "hljsgwy.org.cn",
+      "hlj.gov.cn"
+    ]
+  },
+  {
+    "id": "shanghai",
+    "name": "上海",
+    "group": "华东",
+    "portal": "https://www.shacs.gov.cn/",
+    "urls": [
+      "https://www.shacs.gov.cn/"
+    ],
+    "domains": [
+      "shacs.gov.cn",
+      "sh.gov.cn",
+      "shanghai.gov.cn"
+    ],
+    "seeds": [
+      "https://www.shanghai.gov.cn/nw17239/20261104/65c6d594b96342acb7053771d38f1f16.html"
+    ]
+  },
+  {
+    "id": "jiangsu",
+    "name": "江苏",
+    "group": "华东",
+    "portal": "https://jshrss.jiangsu.gov.cn/col/col57253/index.html",
+    "urls": [
+      "https://www.jiangsu.gov.cn/col/col84304/index.html",
+      "https://jshrss.jiangsu.gov.cn/col/col93730/index.html"
+    ],
+    "domains": [
+      "jiangsu.gov.cn",
+      "jszzb.gov.cn"
+    ],
+    "seeds": [
+      "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html"
+    ]
+  },
+  {
+    "id": "zhejiang",
+    "name": "浙江",
+    "group": "华东",
+    "portal": "https://gwy.zjks.gov.cn/",
+    "urls": [
+      "https://gwy.zjks.gov.cn/",
+      "https://www.zjzzgz.gov.cn/col/col1405238/index.html"
+    ],
+    "domains": [
+      "zjks.gov.cn",
+      "zj.gov.cn",
+      "zjzzgz.gov.cn",
+      "csjgwy.com"
+    ]
+  },
+  {
+    "id": "anhui",
+    "name": "安徽",
+    "group": "华东",
+    "portal": "http://www.apta.gov.cn/",
+    "urls": [
+      "http://www.apta.gov.cn/",
+      "https://www.ahxf.gov.cn/"
+    ],
+    "domains": [
+      "apta.gov.cn",
+      "ahxf.gov.cn"
+    ]
+  },
+  {
+    "id": "fujian",
+    "name": "福建",
+    "group": "华东",
+    "portal": "https://gwykl.fujian.gov.cn/",
+    "urls": [
+      "https://gwykl.fujian.gov.cn/"
+    ],
+    "domains": [
+      "fujian.gov.cn"
+    ]
+  },
+  {
+    "id": "jiangxi",
+    "name": "江西",
+    "group": "华东",
+    "portal": "http://www.jxpta.com/",
+    "urls": [
+      "http://www.jxpta.com/",
+      "https://rst.jiangxi.gov.cn/"
+    ],
+    "domains": [
+      "jxpta.com",
+      "jiangxi.gov.cn"
+    ]
+  },
+  {
+    "id": "shandong",
+    "name": "山东",
+    "group": "华东",
+    "portal": "https://www.dtdjzx.gov.cn/",
+    "urls": [
+      "https://www.dtdjzx.gov.cn/",
+      "https://hrss.shandong.gov.cn/rsks/"
+    ],
+    "domains": [
+      "dtdjzx.gov.cn",
+      "shandong.gov.cn",
+      "jinan.gov.cn",
+      "cqdx.gov.cn",
+      "sdrsks.org.cn"
+    ],
+    "seeds": [
+      "https://www.cqdx.gov.cn/web/article/1568321483530772480/web/content_1568321483530772480.html"
+    ]
+  },
+  {
+    "id": "henan",
+    "name": "河南",
+    "group": "华中",
+    "portal": "https://www.hnrsks.com/",
+    "urls": [
+      "https://www.hnrsks.com/",
+      "https://hrss.henan.gov.cn/"
+    ],
+    "domains": [
+      "hnrsks.com",
+      "henan.gov.cn"
+    ]
+  },
+  {
+    "id": "hubei",
+    "name": "湖北",
+    "group": "华中",
+    "portal": "https://rst.hubei.gov.cn/hbrsksw/",
+    "urls": [
+      "https://rst.hubei.gov.cn/hbrsksw/"
+    ],
+    "domains": [
+      "hubei.gov.cn"
+    ]
+  },
+  {
+    "id": "hunan",
+    "name": "湖南",
+    "group": "华中",
+    "portal": "http://www.hunanpea.com/",
+    "urls": [
+      "http://www.hunanpea.com/",
+      "https://www.hunan.gov.cn/hnszf/xxgk/rsxx/klzp/"
+    ],
+    "domains": [
+      "hunanpea.com",
+      "hunan.gov.cn",
+      "hnsw.org.cn"
+    ]
+  },
+  {
+    "id": "guangdong",
+    "name": "广东",
+    "group": "华南",
+    "portal": "https://ggfw.hrss.gd.gov.cn/gwyks/index.do",
+    "urls": [
+      "https://hrss.gd.gov.cn/zwgk/gwyzk/",
+      "https://rsks.gd.gov.cn/"
+    ],
+    "domains": [
+      "gd.gov.cn",
+      "gdzz.gov.cn",
+      "zs.gov.cn",
+      "zhuhai.gov.cn"
+    ],
+    "seeds": [
+      "https://hrss.zs.gov.cn/tzgg/gggs/content/post_2660909.html",
+      "https://ggfw.hrss.gd.gov.cn/gwyks/agreement.do"
+    ]
+  },
+  {
+    "id": "guangxi",
+    "name": "广西",
+    "group": "华南",
+    "portal": "https://www.gxpta.com.cn/",
+    "urls": [
+      "https://www.gxpta.com.cn/"
+    ],
+    "domains": [
+      "gxpta.com.cn",
+      "gxzf.gov.cn"
+    ]
+  },
+  {
+    "id": "hainan",
+    "name": "海南",
+    "group": "华南",
+    "portal": "https://ea.hainan.gov.cn/",
+    "urls": [
+      "https://ea.hainan.gov.cn/",
+      "https://www.hainan.gov.cn/hainan/zkzpxx/list3.shtml"
+    ],
+    "domains": [
+      "hainan.gov.cn",
+      "nanhai.gov.cn"
+    ]
+  },
+  {
+    "id": "chongqing",
+    "name": "重庆",
+    "group": "西南",
+    "portal": "https://rlsbj.cq.gov.cn/ywzl/rsks/",
+    "urls": [
+      "https://rlsbj.cq.gov.cn/ywzl/rsks/"
+    ],
+    "domains": [
+      "cq.gov.cn"
+    ]
+  },
+  {
+    "id": "sichuan",
+    "name": "四川",
+    "group": "西南",
+    "portal": "https://www.scpta.com.cn/",
+    "urls": [
+      "https://www.scpta.com.cn/",
+      "https://www.gcdr.gov.cn/"
+    ],
+    "domains": [
+      "scpta.com.cn",
+      "gcdr.gov.cn",
+      "sc.gov.cn",
+      "cqdx.gov.cn"
+    ],
+    "seeds": [
+      "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html"
+    ]
+  },
+  {
+    "id": "guizhou",
+    "name": "贵州",
+    "group": "西南",
+    "portal": "http://www.gzrsks.com.cn/",
+    "urls": [
+      "http://www.gzrsks.com.cn/",
+      "https://www.gzzzb.gov.cn/"
+    ],
+    "domains": [
+      "gzrsks.com.cn",
+      "gzzzb.gov.cn",
+      "guizhou.gov.cn"
+    ]
+  },
+  {
+    "id": "yunnan",
+    "name": "云南",
+    "group": "西南",
+    "portal": "https://hrss.yn.gov.cn/ynrsksw/",
+    "urls": [
+      "https://hrss.yn.gov.cn/ynrsksw/"
+    ],
+    "domains": [
+      "yn.gov.cn",
+      "ynylxf.cn"
+    ]
+  },
+  {
+    "id": "xizang",
+    "name": "西藏",
+    "group": "西南",
+    "portal": "https://hrss.xizang.gov.cn/",
+    "urls": [
+      "https://hrss.xizang.gov.cn/"
+    ],
+    "domains": [
+      "xizang.gov.cn",
+      "xzrsks.com.cn"
+    ]
+  },
+  {
+    "id": "shaanxi",
+    "name": "陕西",
+    "group": "西北",
+    "portal": "https://www.sxrsks.cn/",
+    "urls": [
+      "https://www.sxrsks.cn/",
+      "https://www.sx-dj.gov.cn/"
+    ],
+    "domains": [
+      "sxrsks.cn",
+      "sx-dj.gov.cn",
+      "shaanxi.gov.cn"
+    ]
+  },
+  {
+    "id": "gansu",
+    "name": "甘肃",
+    "group": "西北",
+    "portal": "https://rst.gansu.gov.cn/rst/c113468/ks.shtml",
+    "urls": [
+      "https://rst.gansu.gov.cn/",
+      "https://www.gszg.gov.cn/"
+    ],
+    "domains": [
+      "gansu.gov.cn",
+      "gszg.gov.cn"
+    ]
+  },
+  {
+    "id": "qinghai",
+    "name": "青海",
+    "group": "西北",
+    "portal": "http://www.qhpta.com/",
+    "urls": [
+      "http://www.qhpta.com/"
+    ],
+    "domains": [
+      "qhpta.com",
+      "qinghai.gov.cn",
+      "qh.gov.cn"
+    ]
+  },
+  {
+    "id": "ningxia",
+    "name": "宁夏",
+    "group": "西北",
+    "portal": "https://www.nxpta.com/",
+    "urls": [
+      "https://www.nxpta.com/"
+    ],
+    "domains": [
+      "nxpta.com",
+      "nx.gov.cn"
+    ]
+  },
+  {
+    "id": "xinjiang",
+    "name": "新疆",
+    "group": "西北",
+    "portal": "https://www.xjrsks.com.cn/",
+    "urls": [
+      "https://www.xjrsks.com.cn/",
+      "https://www.xjkunlun.cn/"
+    ],
+    "domains": [
+      "xjrsks.com.cn",
+      "xjkunlun.cn",
+      "xinjiang.gov.cn"
+    ]
+  }
+]

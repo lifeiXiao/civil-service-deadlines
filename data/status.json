@@ -1,0 +1,472 @@
+{
+  "last_attempt_at": "2026-11-17T09:22:19+08:00",
+  "finished_at": "2026-11-17T09:23:47+08:00",
+  "cycle_year": 2027,
+  "last_full_check_at": "2026-11-17T09:23:47+08:00",
+  "schedule": "每天北京时间 07:23（GitHub 调度可能延迟）",
+  "sources": [
+    {
+      "id": "anhui",
+      "checked_at": "2026-11-17T09:22:45+08:00",
+      "state": "limited",
+      "errors": [
+        {
+          "url": "http://www.apta.gov.cn/",
+          "message": "官网 robots.txt 不允许自动读取"
+        }
+      ],
+      "pages_checked": 1,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "beijing",
+      "checked_at": "2026-11-17T09:22:19+08:00",
+      "state": "ok",
+      "errors": [],
+      "pages_checked": 9,
+      "notices_found": 7,
+      "last_success_at": "2026-11-17T09:22:19+08:00"
+    },
+    {
+      "id": "chongqing",
+      "checked_at": "2026-11-17T09:23:08+08:00",
+      "state": "ok",
+      "errors": [],
+      "pages_checked": 4,
+      "notices_found": 3,
+      "last_success_at": "2026-11-17T09:23:08+08:00"
+    },
+    {
+      "id": "fujian",
+      "checked_at": "2026-11-17T09:22:51+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://gwykl.fujian.gov.cn/",
+          "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "gansu",
+      "checked_at": "2026-11-17T09:23:25+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://rst.gansu.gov.cn/",
+          "message": "HTTP Error 412: Precondition Failed"
+        },
+        {
+          "url": "https://www.gszg.gov.cn/",
+          "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "guangdong",
+      "checked_at": "2026-11-17T09:23:04+08:00",
+      "state": "ok",
+      "errors": [
+        {
+          "url": "https://hrss.gd.gov.cn/zwgk/gwyzk/",
+          "message": "HTTP Error 404: Not Found"
+        }
+      ],
+      "pages_checked": 8,
+      "notices_found": 6,
+      "last_success_at": "2026-11-17T09:23:04+08:00"
+    },
+    {
+      "id": "guangxi",
+      "checked_at": "2026-11-17T09:23:05+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://www.gxpta.com.cn/",
+          "message": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "guizhou",
+      "checked_at": "2026-11-17T09:23:15+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "http://www.gzrsks.com.cn/",
+          "message": "timed out"
+        },
+        {
+          "url": "https://www.gzzzb.gov.cn/",
+          "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "hainan",
+      "checked_at": "2026-11-17T09:23:07+08:00",
+      "state": "limited",
+      "errors": [],
+      "pages_checked": 3,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "hebei",
+      "checked_at": "2026-11-17T09:22:19+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://www.hebpta.com.cn/",
+          "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+        },
+        {
+          "url": "https://rst.hebei.gov.cn/",
+          "message": "官网返回验证页面或不可用页面"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "heilongjiang",
+      "checked_at": "2026-11-17T09:22:41+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://www.hljsgwy.org.cn/",
+          "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "henan",
+      "checked_at": "2026-11-17T09:22:57+08:00",
+      "state": "limited",
+      "errors": [
+        {
+          "url": "https://www.hnrsks.com/",
+          "message": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1010)>"
+        }
+      ],
+      "pages_checked": 1,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "hubei",
+      "checked_at": "2026-11-17T09:22:57+08:00",
+      "state": "ok",
+      "errors": [],
+      "pages_checked": 2,
+      "notices_found": 1,
+      "last_success_at": "2026-11-17T09:22:57+08:00"
+    },
+    {
+      "id": "hunan",
+      "checked_at": "2026-11-17T09:23:01+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "http://www.hunanpea.com/",
+          "message": "timed out"
+        },
+        {
+          "url": "https://www.hunan.gov.cn/hnszf/xxgk/rsxx/klzp/",
+          "message": "官网返回验证页面或不可用页面"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "jiangsu",
+      "checked_at": "2026-11-17T09:22:43+08:00",
+      "state": "ok",
+      "errors": [],
+      "pages_checked": 4,
+      "notices_found": 2,
+      "last_success_at": "2026-11-17T09:22:43+08:00"
+    },
+    {
+      "id": "jiangxi",
+      "checked_at": "2026-11-17T09:22:53+08:00",
+      "state": "limited",
+      "errors": [
+        {
+          "url": "http://www.jxpta.com/",
+          "message": "timed out"
+        }
+      ],
+      "pages_checked": 1,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "jilin",
+      "checked_at": "2026-11-17T09:22:36+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://www.jlgwyks.cn/",
+          "message": "官网返回验证页面或不可用页面"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "liaoning",
+      "checked_at": "2026-11-17T09:22:30+08:00",
+      "state": "limited",
+      "errors": [
+        {
+          "url": "https://www.lnrsks.com/",
+          "message": "The read operation timed out"
+        }
+      ],
+      "pages_checked": 1,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "national",
+      "checked_at": "2026-11-17T09:22:19+08:00",
+      "state": "limited",
+      "errors": [
+        {
+          "url": "https://shanghai.chinatax.gov.cn/xxgk/rsxx/202610/t481764.html",
+          "message": "官网 robots.txt 不允许自动读取"
+        },
+        {
+          "url": "http://bm.scs.gov.cn/kl2027/",
+          "message": "官网 robots.txt 不允许自动读取"
+        },
+        {
+          "url": "http://www.scs.gov.cn/",
+          "message": "官网返回验证页面或不可用页面"
+        }
+      ],
+      "pages_checked": 1,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "neimenggu",
+      "checked_at": "2026-11-17T09:22:19+08:00",
+      "state": "ok",
+      "errors": [],
+      "pages_checked": 9,
+      "notices_found": 6,
+      "last_success_at": "2026-11-17T09:22:19+08:00"
+    },
+    {
+      "id": "ningxia",
+      "checked_at": "2026-11-17T09:23:27+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://www.nxpta.com/",
+          "message": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "qinghai",
+      "checked_at": "2026-11-17T09:23:26+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "http://www.qhpta.com/",
+          "message": "官网返回验证页面或不可用页面"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "shaanxi",
+      "checked_at": "2026-11-17T09:23:23+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://www.sxrsks.cn/",
+          "message": "官网返回验证页面或不可用页面"
+        },
+        {
+          "url": "https://www.sx-dj.gov.cn/",
+          "message": "The read operation timed out"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "shandong",
+      "checked_at": "2026-11-17T09:22:55+08:00",
+      "state": "ok",
+      "errors": [
+        {
+          "url": "https://www.dtdjzx.gov.cn/",
+          "message": "官网 robots.txt 不允许自动读取"
+        }
+      ],
+      "pages_checked": 3,
+      "notices_found": 2,
+      "last_success_at": "2026-11-17T09:22:55+08:00"
+    },
+    {
+      "id": "shanghai",
+      "checked_at": "2026-11-17T09:22:41+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://www.shacs.gov.cn/",
+          "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "shanxi",
+      "checked_at": "2026-11-17T09:22:19+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://rst.shanxi.gov.cn/rsks/gwyks/",
+          "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "sichuan",
+      "checked_at": "2026-11-17T09:23:08+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://www.scpta.com.cn/",
+          "message": "官网返回验证页面或不可用页面"
+        },
+        {
+          "url": "https://www.gcdr.gov.cn/",
+          "message": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "tianjin",
+      "checked_at": "2026-11-17T09:22:19+08:00",
+      "state": "limited",
+      "errors": [
+        {
+          "url": "https://gklx.hrss.tj.gov.cn",
+          "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+        }
+      ],
+      "pages_checked": 1,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "xinjiang",
+      "checked_at": "2026-11-17T09:23:27+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://www.xjrsks.com.cn/",
+          "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+        },
+        {
+          "url": "https://www.xjkunlun.cn/",
+          "message": "官网返回验证页面或不可用页面"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "xizang",
+      "checked_at": "2026-11-17T09:23:23+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://hrss.xizang.gov.cn/",
+          "message": "HTTP Error 508: "
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "yunnan",
+      "checked_at": "2026-11-17T09:23:21+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://hrss.yn.gov.cn/ynrsksw/",
+          "message": "HTTP Error 418: "
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    },
+    {
+      "id": "zhejiang",
+      "checked_at": "2026-11-17T09:22:45+08:00",
+      "state": "error",
+      "errors": [
+        {
+          "url": "https://gwy.zjks.gov.cn/",
+          "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+        },
+        {
+          "url": "https://www.zjzzgz.gov.cn/col/col1405238/index.html",
+          "message": "官网返回验证页面或不可用页面"
+        }
+      ],
+      "pages_checked": 0,
+      "notices_found": 0,
+      "last_success_at": null
+    }
+  ],
+  "summary": {
+    "checked": 32,
+    "readable": 14,
+    "with_notices": 7
+  }
+}

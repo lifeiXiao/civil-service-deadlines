@@ -1,0 +1,80 @@
+name: Update calendar and deploy Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # UTC 23:23 = next day 07:23 in Asia/Shanghai. Off the busy hour boundary.
+    - cron: '23 23 * * *'
+  workflow_dispatch:
+    inputs:
+      update_sources:
+        description: 'Check official sources before deployment'
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: civil-service-calendar-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+      pages: read
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+      - name: Test extraction and calendar behavior
+        run: |
+          python -m unittest discover -s tests -v
+          node --test tests/*.test.js
+          node --check site/app.js
+      - name: Check official notice sources
+        id: update
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.update_sources)
+        continue-on-error: true
+        run: python -m scripts.update
+      - name: Validate and build static site
+        run: python -m scripts.build
+      - name: Save public data and source diagnostics
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.update_sources)
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/exams.json data/notices.json data/status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: refresh official notices and source health [skip ci]'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Report source outage
+        if: steps.update.outcome == 'failure'
+        run: echo '::warning::Official source update failed. Published retained dates with diagnostic status; see data/status.json.'
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy public calendar
+        id: deployment
+        uses: actions/deploy-pages@v4
