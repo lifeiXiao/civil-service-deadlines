@@ -1,1 +1,463 @@
-[]
+[
+  {
+    "region_id": "beijing",
+    "year": 2027,
+    "title": "北京市各级机关2027年度考试录用公务员公告_信息提示_首都之窗_北京市人民政府门户网站",
+    "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202611/t20261109_4938567.html",
+    "content_hash": "0bbdb544368e87872ae02599e83c375f19552102471ff9b4f2a789d7fc9de348",
+    "events": {
+      "registration": {
+        "start": "2026-11-12T09:00:00+08:00",
+        "end": "2026-11-18T18:00:00+08:00",
+        "source_url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202611/t20261109_4938567.html",
+        "evidence": "报考者可于2026年11月12日9:00至11月18日18:00期间登录“北京市人事考试通用平台”(http://rsj.beijing.gov.cn/bm/ztzl/gwy/)、北京人社微信公众号或北京人社APP,提交报考申请",
+        "verification": "auto"
+      },
+      "admission": {
+        "start": "2026-12-01T09:00:00+08:00",
+        "end": "2026-12-06T16:30:00+08:00",
+        "source_url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202611/t20261109_4938567.html",
+        "evidence": "缴费成功后,报考者可于2026年12月1日9:00至12月6日16:30期间从“北京市人事考试通用平台”自行下载打印准考证",
+        "verification": "auto"
+      }
+    },
+    "review": false,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "beijing",
+    "year": 2027,
+    "title": "北京市各级机关2027年度考试录用公务员公告北京市各级机关2027年度考试录用公务员公告",
+    "url": "https://www.beijing.gov.cn/gongkai/rsxx/gwyzk/202611/t20261109_4938196.html",
+    "content_hash": "6c49f26f39b721e4369ba00d856c6ab8b0bb6f0a92c2e4e4aa631320cba5d358",
+    "events": {
+      "registration": {
+        "start": "2026-11-12T09:00:00+08:00",
+        "end": "2026-11-18T18:00:00+08:00",
+        "source_url": "https://www.beijing.gov.cn/gongkai/rsxx/gwyzk/202611/t20261109_4938196.html",
+        "evidence": "报考者可于2026年11月12日9:00至11月18日18:00期间登录“北京市人事考试通用平台”(http://rsj.beijing.gov.cn/bm/ztzl/gwy/)、北京人社微信公众号或北京人社APP,提交报考申请",
+        "verification": "auto"
+      },
+      "admission": {
+        "start": "2026-12-01T09:00:00+08:00",
+        "end": "2026-12-06T16:30:00+08:00",
+        "source_url": "https://www.beijing.gov.cn/gongkai/rsxx/gwyzk/202611/t20261109_4938196.html",
+        "evidence": "缴费成功后,报考者可于2026年12月1日9:00至12月6日16:30期间从“北京市人事考试通用平台”自行下载打印准考证",
+        "verification": "auto"
+      }
+    },
+    "review": false,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "beijing",
+    "year": 2026,
+    "title": "北京市各级机关2026年度考试录用公务员笔试合格分数线北京市各级机关2026年度考试录用公务员笔试合格分数线",
+    "url": "https://www.beijing.gov.cn/gongkai/rsxx/gwyzk/202601/t20260105_4400092.html",
+    "content_hash": "6725df5390c775e203f5b778e4d78e7c7d8bdbeaffec8ef4ac9982b430b97a6e",
+    "events": {},
+    "review": true,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "beijing",
+    "year": 2026,
+    "title": "北京市各级机关2026年度考试录用公务员公告北京市各级机关2026年度考试录用公务员公告",
+    "url": "https://www.beijing.gov.cn/gongkai/rsxx/gwyzk/202511/t20251110_4267508.html",
+    "content_hash": "bc1f1bd365bea62a77c4ff83dea69dff34f0ce83749098f24ee3ec59ff9fedff",
+    "events": {
+      "registration": {
+        "start": "2025-11-17T09:00:00+08:00",
+        "end": "2025-11-21T18:00:00+08:00",
+        "source_url": "https://www.beijing.gov.cn/gongkai/rsxx/gwyzk/202511/t20251110_4267508.html",
+        "evidence": "报考者可于2025年11月17日9:00至11月21日18:00期间登录“北京市人事考试通用平台”(http://rsj.beijing.gov.cn/bm/ztzl/gwy/)、北京人社微信公众号或北京人社APP,提交报考申请",
+        "verification": "auto"
+      },
+      "admission": {
+        "start": "2025-12-02T09:00:00+08:00",
+        "end": "2025-12-07T16:30:00+08:00",
+        "source_url": "https://www.beijing.gov.cn/gongkai/rsxx/gwyzk/202511/t20251110_4267508.html",
+        "evidence": "缴费成功后,报考者可于2025年12月2日9:00至12月7日16:30期间从“北京市人事考试通用平台”自行下载打印准考证",
+        "verification": "auto"
+      }
+    },
+    "review": false,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "neimenggu",
+    "year": 2026,
+    "title": "关于发布内蒙古自治区党政群机关（参公单位）2026年度考试录用公务员总成绩的公告",
+    "url": "http://www.impta.com.cn/dangzhengqungwy/2026530145140.asp",
+    "content_hash": "b804d0579d1f7482b3f0202d48caa247d9ec71d04c508b70c392552233125585",
+    "events": {},
+    "review": true,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "neimenggu",
+    "year": 2026,
+    "title": "内蒙古自治区党政群机关（参公单位）2026年度考试录用公务员专业测试有关事宜的公告",
+    "url": "http://www.impta.com.cn/dangzhengqungwy/2026518173850.asp",
+    "content_hash": "832d2358b542d55b98f02f2ccf80dac5f2d42019b437398a7a6428843151ccfe",
+    "events": {
+      "admission": {
+        "start": "2026-05-18",
+        "end": null,
+        "source_url": "http://www.impta.com.cn/dangzhengqungwy/2026518173850.asp",
+        "evidence": "《专业能力测试准考证》打印进入\n内蒙古自治区公务员局\n2026年5月18日\n〖关闭窗口〗\n政务公开\n新闻快讯\n通知公告\n机构简介\n政策法规\n资源下载\n办事指南\n友 情 链 接 \n ---省市考试中心--- \n 中国人事考试网 \n 山东人事考试中心 \n 北京市人事考试网 \n 上海市职业能力考试网 \n 山西省人事考试网 \n 天津人事考试网 \n 辽宁人事考试网 \n 吉林",
+        "verification": "auto"
+      }
+    },
+    "review": false,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "neimenggu",
+    "year": 2026,
+    "title": "关于内蒙古自治区党政群机关（参公单位）2026年度考试录用公务员蒙古语言文字翻译水平加试有关事宜的公告",
+    "url": "http://www.impta.com.cn/dangzhengqungwy/2026512151823.asp",
+    "content_hash": "c12d3d57e0a3b510bcf00734be28cc6cd34963524e1c6c48d4e8078421e62d0e",
+    "events": {},
+    "review": true,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "shanghai",
+    "year": 2027,
+    "title": "沪2027年度考试录用公务员报名周六截止，宝山有这些岗位",
+    "url": "https://www.shanghai.gov.cn/nw17239/20261104/65c6d594b96342acb7053771d38f1f16.html",
+    "content_hash": "69114690a3c8ee82afdf792dd8dde1a92c5146742427ac25180edb7e27e78852",
+    "events": {
+      "registration": {
+        "start": "2026-11-01T00:00:00+08:00",
+        "end": "2026-11-07T12:00:00+08:00",
+        "source_url": "https://www.shanghai.gov.cn/nw17239/20261104/65c6d594b96342acb7053771d38f1f16.html",
+        "evidence": "考试报名采取网络报名方式进行,报考者可在2026年11月1日0:00至11月7日12:00期间登录专题网站进行报名,填报个人报名信息",
+        "verification": "auto"
+      },
+      "payment": {
+        "start": "2026-11-09T10:00:00+08:00",
+        "end": "2026-11-11T18:00:00+08:00",
+        "source_url": "https://www.shanghai.gov.cn/nw17239/20261104/65c6d594b96342acb7053771d38f1f16.html",
+        "evidence": "报考者可于2026年11月9日10:00至11月11日18:00登录考试报名系统进行网上缴费",
+        "verification": "auto"
+      },
+      "admission": {
+        "start": "2026-12-02T10:00:00+08:00",
+        "end": "2026-12-05T18:00:00+08:00",
+        "source_url": "https://www.shanghai.gov.cn/nw17239/20261104/65c6d594b96342acb7053771d38f1f16.html",
+        "evidence": "缴费成功的报考者可于2026年12月2日10:00至12月5日18:00在考试报名系统下载并打印准考证",
+        "verification": "auto"
+      },
+      "exam": {
+        "start": "2026-12-06",
+        "end": null,
+        "source_url": "https://www.shanghai.gov.cn/nw17239/20261104/65c6d594b96342acb7053771d38f1f16.html",
+        "evidence": "笔试时间为2026年12月6日,具体安排为:\n  9:00—11:30申论\n  13:30—15:30行政职业能力测验\n  16:15—17:15专业科目笔试\n  公共科目包括行政职业能力测验和申论两科",
+        "verification": "auto"
+      }
+    },
+    "review": true,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "jiangsu",
+    "year": 2027,
+    "title": "江苏省人力资源和社会保障厅 招考公告 江苏省2027年度考试录用公务员公告",
+    "url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
+    "content_hash": "494b29146004b8175c203c0980016dbff82b06d8d3bb2eec48b53795bbef4791",
+    "events": {
+      "registration": {
+        "start": "2026-11-03T09:00:00+08:00",
+        "end": "2026-11-09T16:00:00+08:00",
+        "source_url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
+        "evidence": "报名时间:2026年11月3日9:00至11月9日16:00",
+        "verification": "auto"
+      },
+      "payment": {
+        "start": "2026-11-03T09:00:00+08:00",
+        "end": "2026-11-12T16:00:00+08:00",
+        "source_url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
+        "evidence": "缴费时间:2026年11月3日9:00至11月12日16:00",
+        "verification": "auto"
+      },
+      "admission": {
+        "start": "2026-12-02T09:00:00+08:00",
+        "end": "2026-12-06T15:00:00+08:00",
+        "source_url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
+        "evidence": "报名确认成功的报考者请于2026年12月2日9:00至12月6日15:00期间,登录报名网站打印准考证",
+        "verification": "auto"
+      }
+    },
+    "review": false,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "jiangsu",
+    "year": 2027,
+    "title": "江苏省2027年度考试录用公务员公共科目笔试考试大纲",
+    "url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93733_11852177.html",
+    "content_hash": "35ff7e23a1b8809c01658c61527d6f78d4869d7a8de265cff6189a8d24e39254",
+    "events": {},
+    "review": true,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "shandong",
+    "year": 2027,
+    "title": "探索网-中共重庆市委党校(重庆行政学院)__部门频道__教管教辅部门__研究生部__学生培养__就业推荐信息__2027年度山东省省级机关及其直属机构考试录用公务员公告",
+    "url": "https://www.cqdx.gov.cn/web/article/1568321483530772480/web/content_1568321483530772480.html",
+    "content_hash": "57c0c9e749a9f95dc8fd651b925a21d5e1f509aa60bb1f553f6c416da70f2095",
+    "events": {
+      "registration": {
+        "start": "2026-11-06T09:00:00+08:00",
+        "end": "2026-11-09T16:00:00+08:00",
+        "source_url": "https://www.cqdx.gov.cn/web/article/1568321483530772480/web/content_1568321483530772480.html",
+        "evidence": "报考者可在2026年11月6日9:00至11月9日16:00期间登录报名平台,提交报名申请",
+        "verification": "auto"
+      },
+      "payment": {
+        "start": "2026-11-06T11:00:00+08:00",
+        "end": "2026-11-11T16:00:00+08:00",
+        "source_url": "https://www.cqdx.gov.cn/web/article/1568321483530772480/web/content_1568321483530772480.html",
+        "evidence": "报考者通过资格初审后,应于2026年11月6日11:00至11月11日16:00期间登录报名平台进行确认缴费,每人每科50元",
+        "verification": "auto"
+      },
+      "admission": {
+        "start": "2026-12-01T09:00:00+08:00",
+        "end": "2026-12-06T14:15:00+08:00",
+        "source_url": "https://www.cqdx.gov.cn/web/article/1568321483530772480/web/content_1568321483530772480.html",
+        "evidence": "缴费确认后,报考者应及时打印《考试录用公务员报名登记表》,打印并签署《报考公务员诚信承诺书》(以上材料在面试前资格复审时提供),并于2026年12月1日9:00至12月6日14:15期间登录报名网站下载、打印准考证",
+        "verification": "auto"
+      }
+    },
+    "review": false,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "hubei",
+    "year": 2026,
+    "title": "湖北省2026年度省市县乡考试录用公务员公告2026-01-12",
+    "url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsgwyks/zkgg/202601/t20260112_5853207.shtml",
+    "content_hash": "1352636851d76a87e22e25a1cac9f27ca5ee19dacc029fb3e9b70c86886b7dd0",
+    "events": {
+      "exam": {
+        "start": "2026-03-14T09:00:00+08:00",
+        "end": null,
+        "source_url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsgwyks/zkgg/202601/t20260112_5853207.shtml",
+        "evidence": "(二)笔试时间\n2026年3月14日上午9:00-11:00  行政职业能力测验\n2026年3月14日下午14:00-16:30  申论\n2026年3月15日上午9:00-11:00  公安专业科目\n2026年3月15日上午9:00-12:00  综合知识测试\n报考人员按照准考证上确定的时间和地点参加考试",
+        "verification": "auto"
+      }
+    },
+    "review": false,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "guangdong",
+    "year": 2027,
+    "title": "标题：广东省2027年考试录用公务员报名温馨提示发表时间：2026年11月05日广东省2027年考试录用公务员报名温馨提示",
+    "url": "https://rsks.gd.gov.cn/zwgk/gzdt/content/post_4975319.html",
+    "content_hash": "ed438ddeea95a94cca696cdd0cd7b90d6cc603cbb6e4f89e8607cdfebd5f998f",
+    "events": {},
+    "review": true,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "guangdong",
+    "year": 2027,
+    "title": "标题：广东省2027年考试录用公务员公告发表时间：2026年10月30日广东省2027年考试录用公务员公告",
+    "url": "https://rsks.gd.gov.cn/zwgk/gzdt/content/post_4973386.html",
+    "content_hash": "6fbd1a9ef84d1656585ef6044a3f90e9ae4296e6c8f65df05fbfc0ed1e9d0e65",
+    "events": {
+      "registration": {
+        "start": "2026-11-02T09:00:00+08:00",
+        "end": "2026-11-06T16:00:00+08:00",
+        "source_url": "https://rsks.gd.gov.cn/zwgk/gzdt/content/post_4973386.html",
+        "evidence": "(一)报名时间\n  2026年11月2日9:00至6日16:00",
+        "verification": "auto"
+      },
+      "payment": {
+        "start": "2026-11-14T09:00:00+08:00",
+        "end": "2026-11-16T16:00:00+08:00",
+        "source_url": "https://rsks.gd.gov.cn/zwgk/gzdt/content/post_4973386.html",
+        "evidence": "(四)缴费确认\n  成功报名的报考者,需于2026年11月14日9:00至16日16:00,登录原报名系统进行缴费",
+        "verification": "auto"
+      },
+      "admission": {
+        "start": "2026-12-02T09:00:00+08:00",
+        "end": null,
+        "source_url": "https://rsks.gd.gov.cn/zwgk/gzdt/content/post_4973386.html",
+        "evidence": "参加笔试的报考者,请于2026年12月2日9:00后在报名系统自行下载并打印准考证",
+        "verification": "auto"
+      },
+      "exam": {
+        "start": "2026-12-06T14:00:00+08:00",
+        "end": null,
+        "source_url": "https://rsks.gd.gov.cn/zwgk/gzdt/content/post_4973386.html",
+        "evidence": "2.笔试时间\n  2026年12月6日 \n  14:00—15:30  《行政职业能力测验》\n  16:15—18:45  《申论》\n  考试开始15分钟后,考生一律禁止进入考场",
+        "verification": "auto"
+      }
+    },
+    "review": true,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": [
+      {
+        "stage": "exam",
+        "existing": {
+          "start": "2026-12-06",
+          "end": null,
+          "source_url": "https://hrss.zs.gov.cn/tzgg/gggs/content/post_2660909.html",
+          "evidence": "笔试日期：2026年12月6日；行测14:00—15:30，申论16:15—18:45。",
+          "verification": "manual"
+        },
+        "candidate": {
+          "start": "2026-12-06T14:00:00+08:00",
+          "end": null,
+          "source_url": "https://rsks.gd.gov.cn/zwgk/gzdt/content/post_4973386.html",
+          "evidence": "2.笔试时间\n  2026年12月6日 \n  14:00—15:30  《行政职业能力测验》\n  16:15—18:45  《申论》\n  考试开始15分钟后,考生一律禁止进入考场",
+          "verification": "auto"
+        }
+      }
+    ]
+  },
+  {
+    "region_id": "guangdong",
+    "year": 2027,
+    "title": "广东省2027年考试录用公务员公告广东省2027年考试录用公务员公告",
+    "url": "https://rsks.gd.gov.cn/wsbs/gwyks/2026/2027gdsk/content/post_4973446.html",
+    "content_hash": "a81b927d5e75bf5c13dc7d4f49090281219a5aead0ace10638338385349edaba",
+    "events": {
+      "registration": {
+        "start": "2026-11-02T09:00:00+08:00",
+        "end": "2026-11-06T16:00:00+08:00",
+        "source_url": "https://rsks.gd.gov.cn/wsbs/gwyks/2026/2027gdsk/content/post_4973446.html",
+        "evidence": "(一)报名时间\n  2026年11月2日9:00至6日16:00",
+        "verification": "auto"
+      },
+      "payment": {
+        "start": "2026-11-14T09:00:00+08:00",
+        "end": "2026-11-16T16:00:00+08:00",
+        "source_url": "https://rsks.gd.gov.cn/wsbs/gwyks/2026/2027gdsk/content/post_4973446.html",
+        "evidence": "(四)缴费确认\n  成功报名的报考者,需于2026年11月14日9:00至16日16:00,登录原报名系统进行缴费",
+        "verification": "auto"
+      },
+      "admission": {
+        "start": "2026-12-02T09:00:00+08:00",
+        "end": null,
+        "source_url": "https://rsks.gd.gov.cn/wsbs/gwyks/2026/2027gdsk/content/post_4973446.html",
+        "evidence": "参加笔试的报考者,请于2026年12月2日9:00后在报名系统自行下载并打印准考证",
+        "verification": "auto"
+      },
+      "exam": {
+        "start": "2026-12-06T14:00:00+08:00",
+        "end": null,
+        "source_url": "https://rsks.gd.gov.cn/wsbs/gwyks/2026/2027gdsk/content/post_4973446.html",
+        "evidence": "2.笔试时间\n  2026年12月6日 \n  14:00—15:30  《行政职业能力测验》\n  16:15—18:45  《申论》\n  考试开始15分钟后,考生一律禁止进入考场",
+        "verification": "auto"
+      }
+    },
+    "review": true,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": [
+      {
+        "stage": "exam",
+        "existing": {
+          "start": "2026-12-06",
+          "end": null,
+          "source_url": "https://hrss.zs.gov.cn/tzgg/gggs/content/post_2660909.html",
+          "evidence": "笔试日期：2026年12月6日；行测14:00—15:30，申论16:15—18:45。",
+          "verification": "manual"
+        },
+        "candidate": {
+          "start": "2026-12-06T14:00:00+08:00",
+          "end": null,
+          "source_url": "https://rsks.gd.gov.cn/wsbs/gwyks/2026/2027gdsk/content/post_4973446.html",
+          "evidence": "2.笔试时间\n  2026年12月6日 \n  14:00—15:30  《行政职业能力测验》\n  16:15—18:45  《申论》\n  考试开始15分钟后,考生一律禁止进入考场",
+          "verification": "auto"
+        }
+      }
+    ]
+  },
+  {
+    "region_id": "guangdong",
+    "year": 2026,
+    "title": "广东省2026年考试录用公务员笔试考生身份核验报到温馨提示广东省2026年考试录用公务员笔试考...",
+    "url": "https://rsks.gd.gov.cn/wsbs/gwyks/2025/2026gdsk/content/post_4808450.html",
+    "content_hash": "b9ad6d79421248a8ea2594ec0d6d668eaef897b748fec0ec4a72264ffa7ffe0d",
+    "events": {},
+    "review": true,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "sichuan",
+    "year": 2027,
+    "title": "探索网-中共重庆市委党校(重庆行政学院)__部门频道__教管教辅部门__研究生部__学生培养__就业推荐信息__四川省2027年度省级机关及其直属机构公开考试录用公务员公告",
+    "url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
+    "content_hash": "a300cf02afa5a380c77eddc7d93f66ecb46e944c4e35253ccdfd4dad4ac1d86e",
+    "events": {
+      "registration": {
+        "start": "2026-10-29",
+        "end": "2026-11-04T08:00:00+08:00",
+        "source_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
+        "evidence": "报考者可于2026年10月29日至11月4日上午8:00期间通过专题网站登录报名平台,提交报考申请,每次只能选报1个职位",
+        "verification": "auto"
+      },
+      "payment": {
+        "start": "2026-10-29",
+        "end": "2026-11-06T08:00:00+08:00",
+        "source_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
+        "evidence": "资格初审合格的报考者,请于2026年10月29日至11月6日上午8:00登录报名网站确认缴费",
+        "verification": "auto"
+      },
+      "admission": {
+        "start": "2026-12-01",
+        "end": "2026-12-06",
+        "source_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
+        "evidence": "完成确认缴费(含减免费用)的报考者,请于2026年12月1日至6日登录报名网站打印本人准考证(使用A4纸打印,黑白、彩色均可,保证字迹、照片清晰),并在考试当天持本人准考证和有效居民身份证,到指定的考点参加考试",
+        "verification": "auto"
+      },
+      "exam": {
+        "start": "2026-12-06",
+        "end": null,
+        "source_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
+        "evidence": "笔试时间为2026年12月6日(星期日),各科具体笔试时间及地点详见本人准考证",
+        "verification": "auto"
+      }
+    },
+    "review": false,
+    "first_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "conflicts": []
+  }
+]

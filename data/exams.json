@@ -1,84 +1,27 @@
 [
   {
-    "id": "national-2027",
-    "region_id": "national",
-    "year": 2027,
-    "announcement_url": "https://tyjr.sh.gov.cn/shtyjrswj/sjxx/20261014/ad5df4375e4846028f0529c2b0491e39.html",
-    "updated_at": "2026-11-17T09:30:27+08:00",
-    "notes": [
-      "注册认证与提交报名申请是两个环节。注册认证：10月14日8:00至10月23日18:00；申请报名：10月15日8:00开始。",
-      "笔试列公共科目日期；专业科目为11月28日。"
-    ],
-    "events": {
-      "admission": {
-        "start": "2026-11-23T00:00:00+08:00",
-        "end": "2026-11-29T15:00:00+08:00",
-        "source_url": "https://shanghai.chinatax.gov.cn/xxgk/rsxx/202610/t481764.html",
-        "evidence": "准考证打印：2026年11月23日0:00至11月29日15:00。",
-        "verification": "manual"
-      },
-      "exam": {
-        "start": "2026-11-29",
-        "end": null,
-        "source_url": "https://legalinfo.moj.gov.cn/zhfxfzzx/fzzxrdtj/202610/t20261014_540702.html",
-        "evidence": "公共科目笔试日期：2026年11月29日。各科具体时段以公告为准。",
-        "verification": "manual"
-      },
-      "registration": {
-        "start": "2026-10-15T08:00:00+08:00",
-        "end": "2026-10-24T18:00:00+08:00",
-        "source_url": "https://tyjr.sh.gov.cn/shtyjrswj/sjxx/20261014/ad5df4375e4846028f0529c2b0491e39.html",
-        "evidence": "报名和提交报考申请时间为2026年10月15日8:00至10月24日18:00。",
-        "verification": "manual"
-      },
-      "payment": {
-        "start": "2026-11-01T00:00:00+08:00",
-        "end": "2026-11-07T00:00:00+08:00",
-        "source_url": "https://tyjr.sh.gov.cn/shtyjrswj/sjxx/20261014/ad5df4375e4846028f0529c2b0491e39.html",
-        "evidence": "报名确认并缴费：2026年11月1日0:00至11月6日24:00（即11月7日0:00）。",
-        "verification": "manual"
-      }
-    }
-  },
-  {
-    "id": "jiangsu-2027",
-    "region_id": "jiangsu",
-    "year": 2027,
-    "announcement_url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
-    "updated_at": "2026-11-17T09:30:27+08:00",
-    "notes": [
-      "笔试列公共科目；公安专业科目为12月5日。"
-    ],
+    "id": "beijing-2026",
+    "region_id": "beijing",
+    "year": 2026,
+    "announcement_url": "https://www.beijing.gov.cn/gongkai/rsxx/gwyzk/202511/t20251110_4267508.html",
     "events": {
       "registration": {
-        "start": "2026-11-03T09:00:00+08:00",
-        "end": "2026-11-09T16:00:00+08:00",
-        "source_url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
-        "evidence": "报名时间：2026年11月3日9:00至11月9日16:00。",
-        "verification": "manual"
-      },
-      "payment": {
-        "start": "2026-11-03T09:00:00+08:00",
-        "end": "2026-11-12T16:00:00+08:00",
-        "source_url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
-        "evidence": "缴费时间：2026年11月3日9:00至11月12日16:00。",
-        "verification": "manual"
+        "start": "2025-11-17T09:00:00+08:00",
+        "end": "2025-11-21T18:00:00+08:00",
+        "source_url": "https://www.beijing.gov.cn/gongkai/rsxx/gwyzk/202511/t20251110_4267508.html",
+        "evidence": "报考者可于2025年11月17日9:00至11月21日18:00期间登录“北京市人事考试通用平台”(http://rsj.beijing.gov.cn/bm/ztzl/gwy/)、北京人社微信公众号或北京人社APP,提交报考申请",
+        "verification": "auto"
       },
       "admission": {
-        "start": "2026-12-02T09:00:00+08:00",
-        "end": "2026-12-06T15:00:00+08:00",
-        "source_url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
-        "evidence": "打印准考证：2026年12月2日9:00至12月6日15:00。",
-        "verification": "manual"
-      },
-      "exam": {
-        "start": "2026-12-06",
-        "end": null,
-        "source_url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
-        "evidence": "公共科目笔试时间为2026年12月6日。",
-        "verification": "manual"
+        "start": "2025-12-02T09:00:00+08:00",
+        "end": "2025-12-07T16:30:00+08:00",
+        "source_url": "https://www.beijing.gov.cn/gongkai/rsxx/gwyzk/202511/t20251110_4267508.html",
+        "evidence": "缴费成功后,报考者可于2025年12月2日9:00至12月7日16:30期间从“北京市人事考试通用平台”自行下载打印准考证",
+        "verification": "auto"
       }
-    }
+    },
+    "notes": [],
+    "updated_at": "2026-11-17T09:37:41+08:00"
   },
   {
     "id": "beijing-2027",
@@ -154,6 +97,121 @@
     }
   },
   {
+    "id": "hubei-2026",
+    "region_id": "hubei",
+    "year": 2026,
+    "announcement_url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsgwyks/zkgg/202601/t20260112_5853207.shtml",
+    "events": {
+      "exam": {
+        "start": "2026-03-14T09:00:00+08:00",
+        "end": null,
+        "source_url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsgwyks/zkgg/202601/t20260112_5853207.shtml",
+        "evidence": "(二)笔试时间\n2026年3月14日上午9:00-11:00  行政职业能力测验\n2026年3月14日下午14:00-16:30  申论\n2026年3月15日上午9:00-11:00  公安专业科目\n2026年3月15日上午9:00-12:00  综合知识测试\n报考人员按照准考证上确定的时间和地点参加考试",
+        "verification": "auto"
+      }
+    },
+    "notes": [],
+    "updated_at": "2026-11-17T09:37:41+08:00"
+  },
+  {
+    "id": "jiangsu-2027",
+    "region_id": "jiangsu",
+    "year": 2027,
+    "announcement_url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
+    "updated_at": "2026-11-17T09:30:27+08:00",
+    "notes": [
+      "笔试列公共科目；公安专业科目为12月5日。"
+    ],
+    "events": {
+      "registration": {
+        "start": "2026-11-03T09:00:00+08:00",
+        "end": "2026-11-09T16:00:00+08:00",
+        "source_url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
+        "evidence": "报名时间：2026年11月3日9:00至11月9日16:00。",
+        "verification": "manual"
+      },
+      "payment": {
+        "start": "2026-11-03T09:00:00+08:00",
+        "end": "2026-11-12T16:00:00+08:00",
+        "source_url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
+        "evidence": "缴费时间：2026年11月3日9:00至11月12日16:00。",
+        "verification": "manual"
+      },
+      "admission": {
+        "start": "2026-12-02T09:00:00+08:00",
+        "end": "2026-12-06T15:00:00+08:00",
+        "source_url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
+        "evidence": "打印准考证：2026年12月2日9:00至12月6日15:00。",
+        "verification": "manual"
+      },
+      "exam": {
+        "start": "2026-12-06",
+        "end": null,
+        "source_url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
+        "evidence": "公共科目笔试时间为2026年12月6日。",
+        "verification": "manual"
+      }
+    }
+  },
+  {
+    "id": "national-2027",
+    "region_id": "national",
+    "year": 2027,
+    "announcement_url": "https://tyjr.sh.gov.cn/shtyjrswj/sjxx/20261014/ad5df4375e4846028f0529c2b0491e39.html",
+    "updated_at": "2026-11-17T09:30:27+08:00",
+    "notes": [
+      "注册认证与提交报名申请是两个环节。注册认证：10月14日8:00至10月23日18:00；申请报名：10月15日8:00开始。",
+      "笔试列公共科目日期；专业科目为11月28日。"
+    ],
+    "events": {
+      "admission": {
+        "start": "2026-11-23T00:00:00+08:00",
+        "end": "2026-11-29T15:00:00+08:00",
+        "source_url": "https://shanghai.chinatax.gov.cn/xxgk/rsxx/202610/t481764.html",
+        "evidence": "准考证打印：2026年11月23日0:00至11月29日15:00。",
+        "verification": "manual"
+      },
+      "exam": {
+        "start": "2026-11-29",
+        "end": null,
+        "source_url": "https://legalinfo.moj.gov.cn/zhfxfzzx/fzzxrdtj/202610/t20261014_540702.html",
+        "evidence": "公共科目笔试日期：2026年11月29日。各科具体时段以公告为准。",
+        "verification": "manual"
+      },
+      "registration": {
+        "start": "2026-10-15T08:00:00+08:00",
+        "end": "2026-10-24T18:00:00+08:00",
+        "source_url": "https://tyjr.sh.gov.cn/shtyjrswj/sjxx/20261014/ad5df4375e4846028f0529c2b0491e39.html",
+        "evidence": "报名和提交报考申请时间为2026年10月15日8:00至10月24日18:00。",
+        "verification": "manual"
+      },
+      "payment": {
+        "start": "2026-11-01T00:00:00+08:00",
+        "end": "2026-11-07T00:00:00+08:00",
+        "source_url": "https://tyjr.sh.gov.cn/shtyjrswj/sjxx/20261014/ad5df4375e4846028f0529c2b0491e39.html",
+        "evidence": "报名确认并缴费：2026年11月1日0:00至11月6日24:00（即11月7日0:00）。",
+        "verification": "manual"
+      }
+    }
+  },
+  {
+    "id": "neimenggu-2026",
+    "region_id": "neimenggu",
+    "year": 2026,
+    "announcement_url": "http://www.impta.com.cn/dangzhengqungwy/2026518173850.asp",
+    "events": {
+      "admission": {
+        "start": "2026-05-18",
+        "end": null,
+        "source_url": "http://www.impta.com.cn/dangzhengqungwy/2026518173850.asp",
+        "evidence": "《专业能力测试准考证》打印进入\n内蒙古自治区公务员局\n2026年5月18日\n〖关闭窗口〗\n政务公开\n新闻快讯\n通知公告\n机构简介\n政策法规\n资源下载\n办事指南\n友 情 链 接 \n ---省市考试中心--- \n 中国人事考试网 \n 山东人事考试中心 \n 北京市人事考试网 \n 上海市职业能力考试网 \n 山西省人事考试网 \n 天津人事考试网 \n 辽宁人事考试网 \n 吉林",
+        "verification": "auto"
+      }
+    },
+    "notes": [],
+    "updated_at": "2026-11-17T09:37:41+08:00"
+  },
+  {
     "id": "shandong-2027",
     "region_id": "shandong",
     "year": 2027,
@@ -179,47 +237,6 @@
         "end": "2026-12-06T14:15:00+08:00",
         "source_url": "https://www.cqdx.gov.cn/web/article/1568321483530772480/web/content_1568321483530772480.html",
         "evidence": "缴费确认后,报考者应及时打印《考试录用公务员报名登记表》,打印并签署《报考公务员诚信承诺书》(以上材料在面试前资格复审时提供),并于2026年12月1日9:00至12月6日14:15期间登录报名网站下载、打印准考证",
-        "verification": "manual"
-      }
-    },
-    "notes": [
-      "此条为省级机关及其直属机构公告；其他招录范围请核对相应官方公告。",
-      "公告通过政府机构网站转载核验；后续调整以本省招考主管部门原文为准。"
-    ]
-  },
-  {
-    "id": "sichuan-2027",
-    "region_id": "sichuan",
-    "year": 2027,
-    "announcement_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
-    "updated_at": "2026-11-17T09:30:27+08:00",
-    "events": {
-      "registration": {
-        "start": "2026-10-29",
-        "end": "2026-11-04T08:00:00+08:00",
-        "source_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
-        "evidence": "报考者可于2026年10月29日至11月4日上午8:00期间通过专题网站登录报名平台,提交报考申请,每次只能选报1个职位",
-        "verification": "manual"
-      },
-      "payment": {
-        "start": "2026-10-29",
-        "end": "2026-11-06T08:00:00+08:00",
-        "source_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
-        "evidence": "资格初审合格的报考者,请于2026年10月29日至11月6日上午8:00登录报名网站确认缴费",
-        "verification": "manual"
-      },
-      "admission": {
-        "start": "2026-12-01",
-        "end": "2026-12-06",
-        "source_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
-        "evidence": "完成确认缴费(含减免费用)的报考者,请于2026年12月1日至6日登录报名网站打印本人准考证(使用A4纸打印,黑白、彩色均可,保证字迹、照片清晰),并在考试当天持本人准考证和有效居民身份证,到指定的考点参加考试",
-        "verification": "manual"
-      },
-      "exam": {
-        "start": "2026-12-06",
-        "end": null,
-        "source_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
-        "evidence": "笔试时间为2026年12月6日(星期日),各科具体笔试时间及地点详见本人准考证",
         "verification": "manual"
       }
     },
@@ -266,6 +283,47 @@
     },
     "notes": [
       "根据上海市政府门户转载的市公务员局公告核验。专业科目和后续职位报名请查看原文。"
+    ]
+  },
+  {
+    "id": "sichuan-2027",
+    "region_id": "sichuan",
+    "year": 2027,
+    "announcement_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
+    "updated_at": "2026-11-17T09:30:27+08:00",
+    "events": {
+      "registration": {
+        "start": "2026-10-29",
+        "end": "2026-11-04T08:00:00+08:00",
+        "source_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
+        "evidence": "报考者可于2026年10月29日至11月4日上午8:00期间通过专题网站登录报名平台,提交报考申请,每次只能选报1个职位",
+        "verification": "manual"
+      },
+      "payment": {
+        "start": "2026-10-29",
+        "end": "2026-11-06T08:00:00+08:00",
+        "source_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
+        "evidence": "资格初审合格的报考者,请于2026年10月29日至11月6日上午8:00登录报名网站确认缴费",
+        "verification": "manual"
+      },
+      "admission": {
+        "start": "2026-12-01",
+        "end": "2026-12-06",
+        "source_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
+        "evidence": "完成确认缴费(含减免费用)的报考者,请于2026年12月1日至6日登录报名网站打印本人准考证(使用A4纸打印,黑白、彩色均可,保证字迹、照片清晰),并在考试当天持本人准考证和有效居民身份证,到指定的考点参加考试",
+        "verification": "manual"
+      },
+      "exam": {
+        "start": "2026-12-06",
+        "end": null,
+        "source_url": "https://www.cqdx.gov.cn/web/article/1565419888768905216/web/content_1565419888768905216.html",
+        "evidence": "笔试时间为2026年12月6日(星期日),各科具体笔试时间及地点详见本人准考证",
+        "verification": "manual"
+      }
+    },
+    "notes": [
+      "此条为省级机关及其直属机构公告；其他招录范围请核对相应官方公告。",
+      "公告通过政府机构网站转载核验；后续调整以本省招考主管部门原文为准。"
     ]
   }
 ]
