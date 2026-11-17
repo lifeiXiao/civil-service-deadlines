@@ -177,7 +177,13 @@
       "zjks.gov.cn",
       "zj.gov.cn",
       "zjzzgz.gov.cn",
-      "csjgwy.com"
+      "csjgwy.com",
+      "jinhua.com.cn",
+      "huzhou.gov.cn"
+    ],
+    "seeds": [
+      "https://jinhua.com.cn/xw/1948102",
+      "https://zzb.huzhou.gov.cn/gbgz/gwykl/zkgg/20261105/i4154508.html"
     ]
   },
   {

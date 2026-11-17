@@ -158,7 +158,7 @@
     "region_id": "shandong",
     "year": 2027,
     "announcement_url": "https://www.cqdx.gov.cn/web/article/1568321483530772480/web/content_1568321483530772480.html",
-    "updated_at": "2026-11-17T09:30:27+08:00",
+    "updated_at": "2026-11-17T13:56:40+08:00",
     "events": {
       "registration": {
         "start": "2026-11-06T09:00:00+08:00",
@@ -179,6 +179,13 @@
         "end": "2026-12-06T14:15:00+08:00",
         "source_url": "https://www.cqdx.gov.cn/web/article/1568321483530772480/web/content_1568321483530772480.html",
         "evidence": "缴费确认后,报考者应及时打印《考试录用公务员报名登记表》,打印并签署《报考公务员诚信承诺书》(以上材料在面试前资格复审时提供),并于2026年12月1日9:00至12月6日14:15期间登录报名网站下载、打印准考证",
+        "verification": "manual"
+      },
+      "exam": {
+        "start": "2026-12-06",
+        "end": null,
+        "source_url": "https://www.cqdx.gov.cn/web/article/1568321483530772480/web/content_1568321483530772480.html",
+        "evidence": "公告载明公共科目笔试为12月6日，行测9:00—11:00、申论14:00—17:00；年份据同一公告2026年11月发布及准考证区间核验。",
         "verification": "manual"
       }
     },
@@ -267,5 +274,46 @@
     "notes": [
       "根据上海市政府门户转载的市公务员局公告核验。专业科目和后续职位报名请查看原文。"
     ]
+  },
+  {
+    "id": "zhejiang-2027",
+    "region_id": "zhejiang",
+    "year": 2027,
+    "announcement_url": "https://jinhua.com.cn/xw/1948102",
+    "updated_at": "2026-11-17T13:56:40+08:00",
+    "notes": [
+      "省级公告据金华新闻网转载核验，转载注明来源为浙江组工；并与湖州组织工作网当年公告交叉核对。",
+      "公共科目笔试为12月6日；公安专业科目及心理测评为12月5日，具体以准考证为准。"
+    ],
+    "events": {
+      "registration": {
+        "start": "2026-11-06T09:00:00+08:00",
+        "end": "2026-11-11T17:00:00+08:00",
+        "source_url": "https://jinhua.com.cn/xw/1948102",
+        "evidence": "报名时间：2026年11月6日9时至11月11日17时。",
+        "verification": "manual"
+      },
+      "payment": {
+        "start": "2026-11-14T09:00:00+08:00",
+        "end": "2026-11-18T17:00:00+08:00",
+        "source_url": "https://jinhua.com.cn/xw/1948102",
+        "evidence": "缴费确认：2026年11月14日9时至11月18日17时。",
+        "verification": "manual"
+      },
+      "admission": {
+        "start": "2026-12-01T09:00:00+08:00",
+        "end": "2026-12-06T17:00:00+08:00",
+        "source_url": "https://jinhua.com.cn/xw/1948102",
+        "evidence": "下载并打印准考证：2026年12月1日9时至12月6日17时。",
+        "verification": "manual"
+      },
+      "exam": {
+        "start": "2026-12-06",
+        "end": null,
+        "source_url": "https://jinhua.com.cn/xw/1948102",
+        "evidence": "公共科目笔试时间为2026年12月6日。",
+        "verification": "manual"
+      }
+    }
   }
 ]
