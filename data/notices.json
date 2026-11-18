@@ -1,5 +1,73 @@
 [
   {
+    "region_id": "zhejiang",
+    "year": 2027,
+    "title": "浙江省各级机关单位2027年度考试录用公务员报名即将开始",
+    "url": "https://jinhua.com.cn/xw/1948102",
+    "content_hash": "436ac7251a9cc8a273ee6e7ce8c2217e53e43e1d24fa68d5cefd220e12cea296",
+    "events": {
+      "registration": {
+        "start": "2026-11-06T09:00:00+08:00",
+        "end": "2026-11-11T17:00:00+08:00",
+        "source_url": "https://jinhua.com.cn/xw/1948102",
+        "evidence": "报名时间:2026年11月6日9时—11月11日17时",
+        "verification": "auto"
+      },
+      "payment": {
+        "start": "2026-11-14T09:00:00+08:00",
+        "end": "2026-11-18T17:00:00+08:00",
+        "source_url": "https://jinhua.com.cn/xw/1948102",
+        "evidence": "(二)缴费确认\n时间:2026年11月14日9时—11月18日17时",
+        "verification": "auto"
+      },
+      "admission": {
+        "start": "2026-12-01T09:00:00+08:00",
+        "end": "2026-12-06T17:00:00+08:00",
+        "source_url": "https://jinhua.com.cn/xw/1948102",
+        "evidence": "(三)下载并打印准考证\n时间:2026年12月1日9时—12月6日17时",
+        "verification": "auto"
+      }
+    },
+    "review": false,
+    "first_seen_at": "2026-11-18T12:30:17+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
+    "conflicts": []
+  },
+  {
+    "region_id": "zhejiang",
+    "year": 2027,
+    "title": "湖州市各级机关单位2027年度考试录用公务员公告",
+    "url": "https://zzb.huzhou.gov.cn/gbgz/gwykl/zkgg/20261105/i4154508.html",
+    "content_hash": "50236789e1a1167e974aa359a05cd053fe0b6caf88e19467728c540a3cbd0679",
+    "events": {
+      "registration": {
+        "start": "2026-11-06T09:00:00+08:00",
+        "end": "2026-11-11T17:00:00+08:00",
+        "source_url": "https://zzb.huzhou.gov.cn/gbgz/gwykl/zkgg/20261105/i4154508.html",
+        "evidence": "报名时间:2026年11月6日9时—11月11日17时",
+        "verification": "auto"
+      },
+      "payment": {
+        "start": "2026-11-14T09:00:00+08:00",
+        "end": "2026-11-18T17:00:00+08:00",
+        "source_url": "https://zzb.huzhou.gov.cn/gbgz/gwykl/zkgg/20261105/i4154508.html",
+        "evidence": "(二)缴费确认\n时间:2026年11月14日9时—11月18日17时",
+        "verification": "auto"
+      },
+      "admission": {
+        "start": "2026-12-01T09:00:00+08:00",
+        "end": "2026-12-06T17:00:00+08:00",
+        "source_url": "https://zzb.huzhou.gov.cn/gbgz/gwykl/zkgg/20261105/i4154508.html",
+        "evidence": "(三)下载并打印准考证\n时间:2026年12月1日9时—12月6日17时",
+        "verification": "auto"
+      }
+    },
+    "review": true,
+    "first_seen_at": "2026-11-18T12:30:17+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
+    "conflicts": []
+  },
+  {
     "region_id": "beijing",
     "year": 2027,
     "title": "北京市各级机关2027年度考试录用公务员公告_信息提示_首都之窗_北京市人民政府门户网站",
@@ -23,7 +91,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -50,7 +118,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -62,7 +130,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -89,7 +157,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -101,7 +169,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -113,7 +181,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -125,7 +193,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -166,7 +234,7 @@
     },
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -200,7 +268,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -212,7 +280,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -235,18 +303,11 @@
         "source_url": "https://www.cqdx.gov.cn/web/article/1568321483530772480/web/content_1568321483530772480.html",
         "evidence": "报考者通过资格初审后,应于2026年11月6日11:00至11月11日16:00期间登录报名平台进行确认缴费,每人每科50元",
         "verification": "auto"
-      },
-      "admission": {
-        "start": "2026-12-01T09:00:00+08:00",
-        "end": "2026-12-06T14:15:00+08:00",
-        "source_url": "https://www.cqdx.gov.cn/web/article/1568321483530772480/web/content_1568321483530772480.html",
-        "evidence": "缴费确认后,报考者应及时打印《考试录用公务员报名登记表》,打印并签署《报考公务员诚信承诺书》(以上材料在面试前资格复审时提供),并于2026年12月1日9:00至12月6日14:15期间登录报名网站下载、打印准考证",
-        "verification": "auto"
       }
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -257,7 +318,7 @@
     "content_hash": "1352636851d76a87e22e25a1cac9f27ca5ee19dacc029fb3e9b70c86886b7dd0",
     "events": {
       "exam": {
-        "start": "2026-03-14T09:00:00+08:00",
+        "start": "2026-03-14",
         "end": null,
         "source_url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsgwyks/zkgg/202601/t20260112_5853207.shtml",
         "evidence": "(二)笔试时间\n2026年3月14日上午9:00-11:00  行政职业能力测验\n2026年3月14日下午14:00-16:30  申论\n2026年3月15日上午9:00-11:00  公安专业科目\n2026年3月15日上午9:00-12:00  综合知识测试\n报考人员按照准考证上确定的时间和地点参加考试",
@@ -266,7 +327,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -278,7 +339,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -310,35 +371,17 @@
         "verification": "auto"
       },
       "exam": {
-        "start": "2026-12-06T14:00:00+08:00",
+        "start": "2026-12-06",
         "end": null,
         "source_url": "https://rsks.gd.gov.cn/zwgk/gzdt/content/post_4973386.html",
         "evidence": "2.笔试时间\n  2026年12月6日 \n  14:00—15:30  《行政职业能力测验》\n  16:15—18:45  《申论》\n  考试开始15分钟后,考生一律禁止进入考场",
         "verification": "auto"
       }
     },
-    "review": true,
+    "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
-    "conflicts": [
-      {
-        "stage": "exam",
-        "existing": {
-          "start": "2026-12-06",
-          "end": null,
-          "source_url": "https://hrss.zs.gov.cn/tzgg/gggs/content/post_2660909.html",
-          "evidence": "笔试日期：2026年12月6日；行测14:00—15:30，申论16:15—18:45。",
-          "verification": "manual"
-        },
-        "candidate": {
-          "start": "2026-12-06T14:00:00+08:00",
-          "end": null,
-          "source_url": "https://rsks.gd.gov.cn/zwgk/gzdt/content/post_4973386.html",
-          "evidence": "2.笔试时间\n  2026年12月6日 \n  14:00—15:30  《行政职业能力测验》\n  16:15—18:45  《申论》\n  考试开始15分钟后,考生一律禁止进入考场",
-          "verification": "auto"
-        }
-      }
-    ]
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
+    "conflicts": []
   },
   {
     "region_id": "guangdong",
@@ -369,35 +412,17 @@
         "verification": "auto"
       },
       "exam": {
-        "start": "2026-12-06T14:00:00+08:00",
+        "start": "2026-12-06",
         "end": null,
         "source_url": "https://rsks.gd.gov.cn/wsbs/gwyks/2026/2027gdsk/content/post_4973446.html",
         "evidence": "2.笔试时间\n  2026年12月6日 \n  14:00—15:30  《行政职业能力测验》\n  16:15—18:45  《申论》\n  考试开始15分钟后,考生一律禁止进入考场",
         "verification": "auto"
       }
     },
-    "review": true,
+    "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
-    "conflicts": [
-      {
-        "stage": "exam",
-        "existing": {
-          "start": "2026-12-06",
-          "end": null,
-          "source_url": "https://hrss.zs.gov.cn/tzgg/gggs/content/post_2660909.html",
-          "evidence": "笔试日期：2026年12月6日；行测14:00—15:30，申论16:15—18:45。",
-          "verification": "manual"
-        },
-        "candidate": {
-          "start": "2026-12-06T14:00:00+08:00",
-          "end": null,
-          "source_url": "https://rsks.gd.gov.cn/wsbs/gwyks/2026/2027gdsk/content/post_4973446.html",
-          "evidence": "2.笔试时间\n  2026年12月6日 \n  14:00—15:30  《行政职业能力测验》\n  16:15—18:45  《申论》\n  考试开始15分钟后,考生一律禁止进入考场",
-          "verification": "auto"
-        }
-      }
-    ]
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
+    "conflicts": []
   },
   {
     "region_id": "guangdong",
@@ -408,7 +433,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   },
   {
@@ -449,7 +474,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-17T09:37:41+08:00",
+    "last_seen_at": "2026-11-18T12:30:17+08:00",
     "conflicts": []
   }
 ]
