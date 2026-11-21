@@ -1,5 +1,46 @@
 [
   {
+    "region_id": "guangdong",
+    "year": 2027,
+    "title": "广东省2027年考试录用公务员公告 - 中山市人力资源和社会保障局政务网站",
+    "url": "https://hrss.zs.gov.cn/tzgg/gggs/content/post_2660909.html",
+    "content_hash": "bd4694be18caa8e77c1c357a61d729e9105a361cebc9eca304b05179472f4343",
+    "events": {
+      "registration": {
+        "start": "2026-11-02T09:00:00+08:00",
+        "end": "2026-11-06T16:00:00+08:00",
+        "source_url": "https://hrss.zs.gov.cn/tzgg/gggs/content/post_2660909.html",
+        "evidence": "(一)报名时间\n  2026年11月2日9:00至6日16:00",
+        "verification": "auto"
+      },
+      "payment": {
+        "start": "2026-11-14T09:00:00+08:00",
+        "end": "2026-11-16T16:00:00+08:00",
+        "source_url": "https://hrss.zs.gov.cn/tzgg/gggs/content/post_2660909.html",
+        "evidence": "(四)缴费确认\n  成功报名的报考者,需于2026年11月14日9:00至16日16:00,登录原报名系统进行缴费",
+        "verification": "auto"
+      },
+      "admission": {
+        "start": "2026-12-02T09:00:00+08:00",
+        "end": null,
+        "source_url": "https://hrss.zs.gov.cn/tzgg/gggs/content/post_2660909.html",
+        "evidence": "参加笔试的报考者,请于2026年12月2日9:00后在报名系统自行下载并打印准考证",
+        "verification": "auto"
+      },
+      "exam": {
+        "start": "2026-12-06",
+        "end": null,
+        "source_url": "https://hrss.zs.gov.cn/tzgg/gggs/content/post_2660909.html",
+        "evidence": "2.笔试时间\n  2026年12月6日 \n  14:00—15:30  《行政职业能力测验》\n  16:15—18:45  《申论》\n  考试开始15分钟后,考生一律禁止进入考场",
+        "verification": "auto"
+      }
+    },
+    "review": false,
+    "first_seen_at": "2026-11-21T12:01:23+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
+    "conflicts": []
+  },
+  {
     "region_id": "zhejiang",
     "year": 2027,
     "title": "浙江省各级机关单位2027年度考试录用公务员报名即将开始",
@@ -30,7 +71,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-18T12:30:17+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -64,7 +105,7 @@
     },
     "review": true,
     "first_seen_at": "2026-11-18T12:30:17+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -91,7 +132,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -118,7 +159,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -130,7 +171,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -157,7 +198,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -169,7 +210,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -181,7 +222,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -193,7 +234,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -234,7 +275,7 @@
     },
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -268,7 +309,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -280,7 +321,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -307,7 +348,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -327,7 +368,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -339,7 +380,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -380,7 +421,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -421,7 +462,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -433,7 +474,7 @@
     "events": {},
     "review": true,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   },
   {
@@ -474,7 +515,7 @@
     },
     "review": false,
     "first_seen_at": "2026-11-17T09:37:41+08:00",
-    "last_seen_at": "2026-11-20T12:01:38+08:00",
+    "last_seen_at": "2026-11-21T12:01:23+08:00",
     "conflicts": []
   }
 ]
