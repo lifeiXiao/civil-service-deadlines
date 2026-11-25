@@ -1,13 +1,13 @@
 {
-  "last_attempt_at": "2026-11-24T14:58:59+08:00",
-  "finished_at": "2026-11-24T15:03:05+08:00",
+  "last_attempt_at": "2026-11-25T13:28:45+08:00",
+  "finished_at": "2026-11-25T13:32:58+08:00",
   "cycle_year": 2027,
-  "last_full_check_at": "2026-11-24T15:03:05+08:00",
+  "last_full_check_at": "2026-11-25T13:32:58+08:00",
   "schedule": "每天北京时间 07:23（GitHub 调度可能延迟）",
   "sources": [
     {
       "id": "anhui",
-      "checked_at": "2026-11-24T14:59:46+08:00",
+      "checked_at": "2026-11-25T13:29:26+08:00",
       "state": "error",
       "errors": [
         {
@@ -25,16 +25,16 @@
     },
     {
       "id": "beijing",
-      "checked_at": "2026-11-24T14:58:59+08:00",
+      "checked_at": "2026-11-25T13:28:46+08:00",
       "state": "ok",
       "errors": [],
       "pages_checked": 6,
       "notices_found": 4,
-      "last_success_at": "2026-11-24T14:58:59+08:00"
+      "last_success_at": "2026-11-25T13:28:46+08:00"
     },
     {
       "id": "chongqing",
-      "checked_at": "2026-11-24T15:01:11+08:00",
+      "checked_at": "2026-11-25T13:31:08+08:00",
       "state": "error",
       "errors": [
         {
@@ -48,7 +48,7 @@
     },
     {
       "id": "fujian",
-      "checked_at": "2026-11-24T14:59:50+08:00",
+      "checked_at": "2026-11-25T13:29:28+08:00",
       "state": "error",
       "errors": [
         {
@@ -62,7 +62,7 @@
     },
     {
       "id": "gansu",
-      "checked_at": "2026-11-24T15:02:04+08:00",
+      "checked_at": "2026-11-25T13:32:09+08:00",
       "state": "error",
       "errors": [
         {
@@ -80,7 +80,7 @@
     },
     {
       "id": "guangdong",
-      "checked_at": "2026-11-24T15:00:48+08:00",
+      "checked_at": "2026-11-25T13:30:41+08:00",
       "state": "ok",
       "errors": [
         {
@@ -90,11 +90,11 @@
       ],
       "pages_checked": 7,
       "notices_found": 5,
-      "last_success_at": "2026-11-24T15:00:48+08:00"
+      "last_success_at": "2026-11-25T13:30:41+08:00"
     },
     {
       "id": "guangxi",
-      "checked_at": "2026-11-24T15:00:55+08:00",
+      "checked_at": "2026-11-25T13:30:56+08:00",
       "state": "error",
       "errors": [
         {
@@ -108,7 +108,7 @@
     },
     {
       "id": "guizhou",
-      "checked_at": "2026-11-24T15:01:43+08:00",
+      "checked_at": "2026-11-25T13:31:41+08:00",
       "state": "error",
       "errors": [
         {
@@ -126,7 +126,7 @@
     },
     {
       "id": "hainan",
-      "checked_at": "2026-11-24T15:01:03+08:00",
+      "checked_at": "2026-11-25T13:31:02+08:00",
       "state": "error",
       "errors": [
         {
@@ -144,7 +144,7 @@
     },
     {
       "id": "hebei",
-      "checked_at": "2026-11-24T14:58:59+08:00",
+      "checked_at": "2026-11-25T13:28:46+08:00",
       "state": "error",
       "errors": [
         {
@@ -162,7 +162,7 @@
     },
     {
       "id": "heilongjiang",
-      "checked_at": "2026-11-24T14:59:25+08:00",
+      "checked_at": "2026-11-25T13:29:09+08:00",
       "state": "error",
       "errors": [
         {
@@ -176,7 +176,7 @@
     },
     {
       "id": "henan",
-      "checked_at": "2026-11-24T15:00:23+08:00",
+      "checked_at": "2026-11-25T13:30:03+08:00",
       "state": "error",
       "errors": [
         {
@@ -194,16 +194,16 @@
     },
     {
       "id": "hubei",
-      "checked_at": "2026-11-24T15:00:25+08:00",
+      "checked_at": "2026-11-25T13:30:26+08:00",
       "state": "ok",
       "errors": [],
       "pages_checked": 2,
       "notices_found": 1,
-      "last_success_at": "2026-11-24T15:00:25+08:00"
+      "last_success_at": "2026-11-25T13:30:26+08:00"
     },
     {
       "id": "hunan",
-      "checked_at": "2026-11-24T15:00:28+08:00",
+      "checked_at": "2026-11-25T13:30:29+08:00",
       "state": "error",
       "errors": [
         {
@@ -221,16 +221,16 @@
     },
     {
       "id": "jiangsu",
-      "checked_at": "2026-11-24T14:59:30+08:00",
+      "checked_at": "2026-11-25T13:29:16+08:00",
       "state": "ok",
       "errors": [],
       "pages_checked": 4,
       "notices_found": 2,
-      "last_success_at": "2026-11-24T14:59:30+08:00"
+      "last_success_at": "2026-11-25T13:29:16+08:00"
     },
     {
       "id": "jiangxi",
-      "checked_at": "2026-11-24T14:59:54+08:00",
+      "checked_at": "2026-11-25T13:29:37+08:00",
       "state": "error",
       "errors": [
         {
@@ -248,7 +248,7 @@
     },
     {
       "id": "jilin",
-      "checked_at": "2026-11-24T14:59:18+08:00",
+      "checked_at": "2026-11-25T13:29:03+08:00",
       "state": "error",
       "errors": [
         {
@@ -262,7 +262,7 @@
     },
     {
       "id": "liaoning",
-      "checked_at": "2026-11-24T14:59:14+08:00",
+      "checked_at": "2026-11-25T13:29:00+08:00",
       "state": "limited",
       "errors": [
         {
@@ -276,7 +276,7 @@
     },
     {
       "id": "national",
-      "checked_at": "2026-11-24T14:58:59+08:00",
+      "checked_at": "2026-11-25T13:28:45+08:00",
       "state": "limited",
       "errors": [
         {
@@ -298,21 +298,21 @@
     },
     {
       "id": "neimenggu",
-      "checked_at": "2026-11-24T14:59:11+08:00",
+      "checked_at": "2026-11-25T13:28:57+08:00",
       "state": "ok",
       "errors": [],
       "pages_checked": 6,
       "notices_found": 3,
-      "last_success_at": "2026-11-24T14:59:11+08:00"
+      "last_success_at": "2026-11-25T13:28:57+08:00"
     },
     {
       "id": "ningxia",
-      "checked_at": "2026-11-24T15:02:29+08:00",
+      "checked_at": "2026-11-25T13:32:28+08:00",
       "state": "error",
       "errors": [
         {
           "url": "https://www.nxpta.com/",
-          "message": "<urlopen error [Errno 101] Network is unreachable>"
+          "message": "HTTP Error 403: Forbidden"
         }
       ],
       "pages_checked": 0,
@@ -321,7 +321,7 @@
     },
     {
       "id": "qinghai",
-      "checked_at": "2026-11-24T15:02:23+08:00",
+      "checked_at": "2026-11-25T13:32:19+08:00",
       "state": "error",
       "errors": [
         {
@@ -335,7 +335,7 @@
     },
     {
       "id": "shaanxi",
-      "checked_at": "2026-11-24T15:02:00+08:00",
+      "checked_at": "2026-11-25T13:32:00+08:00",
       "state": "error",
       "errors": [
         {
@@ -353,7 +353,7 @@
     },
     {
       "id": "shandong",
-      "checked_at": "2026-11-24T15:00:14+08:00",
+      "checked_at": "2026-11-25T13:29:52+08:00",
       "state": "ok",
       "errors": [
         {
@@ -367,11 +367,11 @@
       ],
       "pages_checked": 1,
       "notices_found": 1,
-      "last_success_at": "2026-11-24T15:00:14+08:00"
+      "last_success_at": "2026-11-25T13:29:52+08:00"
     },
     {
       "id": "shanghai",
-      "checked_at": "2026-11-24T14:59:26+08:00",
+      "checked_at": "2026-11-25T13:29:13+08:00",
       "state": "ok",
       "errors": [
         {
@@ -381,11 +381,11 @@
       ],
       "pages_checked": 1,
       "notices_found": 1,
-      "last_success_at": "2026-11-24T14:59:26+08:00"
+      "last_success_at": "2026-11-25T13:29:13+08:00"
     },
     {
       "id": "shanxi",
-      "checked_at": "2026-11-24T14:59:01+08:00",
+      "checked_at": "2026-11-25T13:28:50+08:00",
       "state": "error",
       "errors": [
         {
@@ -399,7 +399,7 @@
     },
     {
       "id": "sichuan",
-      "checked_at": "2026-11-24T15:01:19+08:00",
+      "checked_at": "2026-11-25T13:31:20+08:00",
       "state": "ok",
       "errors": [
         {
@@ -413,11 +413,11 @@
       ],
       "pages_checked": 1,
       "notices_found": 1,
-      "last_success_at": "2026-11-24T15:01:19+08:00"
+      "last_success_at": "2026-11-25T13:31:20+08:00"
     },
     {
       "id": "tianjin",
-      "checked_at": "2026-11-24T14:58:59+08:00",
+      "checked_at": "2026-11-25T13:28:46+08:00",
       "state": "error",
       "errors": [
         {
@@ -431,7 +431,7 @@
     },
     {
       "id": "xinjiang",
-      "checked_at": "2026-11-24T15:02:33+08:00",
+      "checked_at": "2026-11-25T13:32:30+08:00",
       "state": "error",
       "errors": [
         {
@@ -449,7 +449,7 @@
     },
     {
       "id": "xizang",
-      "checked_at": "2026-11-24T15:01:59+08:00",
+      "checked_at": "2026-11-25T13:31:53+08:00",
       "state": "error",
       "errors": [
         {
@@ -463,7 +463,7 @@
     },
     {
       "id": "yunnan",
-      "checked_at": "2026-11-24T15:01:56+08:00",
+      "checked_at": "2026-11-25T13:31:51+08:00",
       "state": "error",
       "errors": [
         {
@@ -477,12 +477,12 @@
     },
     {
       "id": "zhejiang",
-      "checked_at": "2026-11-24T14:59:30+08:00",
+      "checked_at": "2026-11-25T13:29:19+08:00",
       "state": "ok",
       "errors": [
         {
           "url": "https://gwy.zjks.gov.cn/",
-          "message": "<urlopen error timed out>"
+          "message": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'gwy.zjks.gov.cn'. (_ssl.c:1011)>"
         },
         {
           "url": "https://www.zjzzgz.gov.cn/col/col1405238/index.html",
@@ -491,7 +491,7 @@
       ],
       "pages_checked": 2,
       "notices_found": 2,
-      "last_success_at": "2026-11-24T14:59:30+08:00"
+      "last_success_at": "2026-11-25T13:29:19+08:00"
     }
   ],
   "summary": {
