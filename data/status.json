@@ -1,13 +1,13 @@
 {
-  "last_attempt_at": "2026-11-27T13:06:44+08:00",
-  "finished_at": "2026-11-27T13:10:07+08:00",
+  "last_attempt_at": "2026-11-28T12:45:27+08:00",
+  "finished_at": "2026-11-28T12:49:16+08:00",
   "cycle_year": 2027,
-  "last_full_check_at": "2026-11-27T13:10:07+08:00",
+  "last_full_check_at": "2026-11-28T12:49:16+08:00",
   "schedule": "每天北京时间 07:23（GitHub 调度可能延迟）",
   "sources": [
     {
       "id": "anhui",
-      "checked_at": "2026-11-27T13:07:26+08:00",
+      "checked_at": "2026-11-28T12:46:18+08:00",
       "state": "error",
       "errors": [
         {
@@ -25,16 +25,16 @@
     },
     {
       "id": "beijing",
-      "checked_at": "2026-11-27T13:06:44+08:00",
+      "checked_at": "2026-11-28T12:45:27+08:00",
       "state": "ok",
       "errors": [],
       "pages_checked": 6,
       "notices_found": 4,
-      "last_success_at": "2026-11-27T13:06:44+08:00"
+      "last_success_at": "2026-11-28T12:45:27+08:00"
     },
     {
       "id": "chongqing",
-      "checked_at": "2026-11-27T13:08:19+08:00",
+      "checked_at": "2026-11-28T12:47:29+08:00",
       "state": "error",
       "errors": [
         {
@@ -48,21 +48,21 @@
     },
     {
       "id": "fujian",
-      "checked_at": "2026-11-27T13:07:27+08:00",
-      "state": "limited",
+      "checked_at": "2026-11-28T12:46:18+08:00",
+      "state": "error",
       "errors": [
         {
-          "url": "https://gwykl.fujian.gov.cn/news/bd033d30-543c-470c-904c-fe34b0046ee3",
+          "url": "https://gwykl.fujian.gov.cn/",
           "message": "<urlopen error [Errno 101] Network is unreachable>"
         }
       ],
-      "pages_checked": 1,
+      "pages_checked": 0,
       "notices_found": 0,
       "last_success_at": null
     },
     {
       "id": "gansu",
-      "checked_at": "2026-11-27T13:09:17+08:00",
+      "checked_at": "2026-11-28T12:48:19+08:00",
       "state": "error",
       "errors": [
         {
@@ -80,7 +80,7 @@
     },
     {
       "id": "guangdong",
-      "checked_at": "2026-11-27T13:07:55+08:00",
+      "checked_at": "2026-11-28T12:47:07+08:00",
       "state": "ok",
       "errors": [
         {
@@ -88,13 +88,13 @@
           "message": "HTTP Error 404: Not Found"
         }
       ],
-      "pages_checked": 7,
-      "notices_found": 5,
-      "last_success_at": "2026-11-27T13:07:55+08:00"
+      "pages_checked": 6,
+      "notices_found": 4,
+      "last_success_at": "2026-11-28T12:47:07+08:00"
     },
     {
       "id": "guangxi",
-      "checked_at": "2026-11-27T13:08:13+08:00",
+      "checked_at": "2026-11-28T12:47:20+08:00",
       "state": "error",
       "errors": [
         {
@@ -108,7 +108,7 @@
     },
     {
       "id": "guizhou",
-      "checked_at": "2026-11-27T13:08:48+08:00",
+      "checked_at": "2026-11-28T12:48:11+08:00",
       "state": "error",
       "errors": [
         {
@@ -126,7 +126,7 @@
     },
     {
       "id": "hainan",
-      "checked_at": "2026-11-27T13:08:16+08:00",
+      "checked_at": "2026-11-28T12:47:24+08:00",
       "state": "error",
       "errors": [
         {
@@ -144,7 +144,7 @@
     },
     {
       "id": "hebei",
-      "checked_at": "2026-11-27T13:06:44+08:00",
+      "checked_at": "2026-11-28T12:45:27+08:00",
       "state": "error",
       "errors": [
         {
@@ -162,12 +162,12 @@
     },
     {
       "id": "heilongjiang",
-      "checked_at": "2026-11-27T13:07:07+08:00",
+      "checked_at": "2026-11-28T12:45:53+08:00",
       "state": "error",
       "errors": [
         {
           "url": "https://www.hljsgwy.org.cn/",
-          "message": "官网返回验证页面或不可用页面"
+          "message": "<urlopen error timed out>"
         }
       ],
       "pages_checked": 0,
@@ -176,7 +176,7 @@
     },
     {
       "id": "henan",
-      "checked_at": "2026-11-27T13:07:42+08:00",
+      "checked_at": "2026-11-28T12:46:51+08:00",
       "state": "error",
       "errors": [
         {
@@ -194,16 +194,16 @@
     },
     {
       "id": "hubei",
-      "checked_at": "2026-11-27T13:07:44+08:00",
+      "checked_at": "2026-11-28T12:46:54+08:00",
       "state": "ok",
       "errors": [],
       "pages_checked": 2,
       "notices_found": 1,
-      "last_success_at": "2026-11-27T13:07:44+08:00"
+      "last_success_at": "2026-11-28T12:46:54+08:00"
     },
     {
       "id": "hunan",
-      "checked_at": "2026-11-27T13:07:47+08:00",
+      "checked_at": "2026-11-28T12:46:58+08:00",
       "state": "error",
       "errors": [
         {
@@ -221,16 +221,16 @@
     },
     {
       "id": "jiangsu",
-      "checked_at": "2026-11-27T13:07:11+08:00",
+      "checked_at": "2026-11-28T12:46:03+08:00",
       "state": "ok",
       "errors": [],
       "pages_checked": 4,
       "notices_found": 2,
-      "last_success_at": "2026-11-27T13:07:11+08:00"
+      "last_success_at": "2026-11-28T12:46:03+08:00"
     },
     {
       "id": "jiangxi",
-      "checked_at": "2026-11-27T13:07:28+08:00",
+      "checked_at": "2026-11-28T12:46:19+08:00",
       "state": "error",
       "errors": [
         {
@@ -248,7 +248,7 @@
     },
     {
       "id": "jilin",
-      "checked_at": "2026-11-27T13:07:00+08:00",
+      "checked_at": "2026-11-28T12:45:46+08:00",
       "state": "error",
       "errors": [
         {
@@ -262,21 +262,25 @@
     },
     {
       "id": "liaoning",
-      "checked_at": "2026-11-27T13:06:56+08:00",
-      "state": "limited",
+      "checked_at": "2026-11-28T12:45:39+08:00",
+      "state": "error",
       "errors": [
         {
           "url": "https://www.lnrsks.com/",
           "message": "<urlopen error timed out>"
+        },
+        {
+          "url": "https://rst.ln.gov.cn/",
+          "message": "<urlopen error _ssl.c:994: The handshake operation timed out>"
         }
       ],
-      "pages_checked": 1,
+      "pages_checked": 0,
       "notices_found": 0,
       "last_success_at": null
     },
     {
       "id": "national",
-      "checked_at": "2026-11-27T13:06:44+08:00",
+      "checked_at": "2026-11-28T12:45:27+08:00",
       "state": "limited",
       "errors": [
         {
@@ -298,21 +302,21 @@
     },
     {
       "id": "neimenggu",
-      "checked_at": "2026-11-27T13:06:53+08:00",
+      "checked_at": "2026-11-28T12:45:39+08:00",
       "state": "ok",
       "errors": [],
       "pages_checked": 5,
       "notices_found": 2,
-      "last_success_at": "2026-11-27T13:06:53+08:00"
+      "last_success_at": "2026-11-28T12:45:39+08:00"
     },
     {
       "id": "ningxia",
-      "checked_at": "2026-11-27T13:09:38+08:00",
+      "checked_at": "2026-11-28T12:48:45+08:00",
       "state": "error",
       "errors": [
         {
           "url": "https://www.nxpta.com/",
-          "message": "<urlopen error [Errno 101] Network is unreachable>"
+          "message": "HTTP Error 403: Forbidden"
         }
       ],
       "pages_checked": 0,
@@ -321,7 +325,7 @@
     },
     {
       "id": "qinghai",
-      "checked_at": "2026-11-27T13:09:31+08:00",
+      "checked_at": "2026-11-28T12:48:38+08:00",
       "state": "error",
       "errors": [
         {
@@ -335,7 +339,7 @@
     },
     {
       "id": "shaanxi",
-      "checked_at": "2026-11-27T13:09:10+08:00",
+      "checked_at": "2026-11-28T12:48:17+08:00",
       "state": "error",
       "errors": [
         {
@@ -353,7 +357,7 @@
     },
     {
       "id": "shandong",
-      "checked_at": "2026-11-27T13:07:35+08:00",
+      "checked_at": "2026-11-28T12:46:45+08:00",
       "state": "ok",
       "errors": [
         {
@@ -367,11 +371,11 @@
       ],
       "pages_checked": 1,
       "notices_found": 1,
-      "last_success_at": "2026-11-27T13:07:35+08:00"
+      "last_success_at": "2026-11-28T12:46:45+08:00"
     },
     {
       "id": "shanghai",
-      "checked_at": "2026-11-27T13:07:10+08:00",
+      "checked_at": "2026-11-28T12:45:55+08:00",
       "state": "ok",
       "errors": [
         {
@@ -381,11 +385,11 @@
       ],
       "pages_checked": 1,
       "notices_found": 1,
-      "last_success_at": "2026-11-27T13:07:10+08:00"
+      "last_success_at": "2026-11-28T12:45:55+08:00"
     },
     {
       "id": "shanxi",
-      "checked_at": "2026-11-27T13:06:46+08:00",
+      "checked_at": "2026-11-28T12:45:28+08:00",
       "state": "error",
       "errors": [
         {
@@ -399,7 +403,7 @@
     },
     {
       "id": "sichuan",
-      "checked_at": "2026-11-27T13:08:38+08:00",
+      "checked_at": "2026-11-28T12:47:44+08:00",
       "state": "ok",
       "errors": [
         {
@@ -413,11 +417,11 @@
       ],
       "pages_checked": 1,
       "notices_found": 1,
-      "last_success_at": "2026-11-27T13:08:38+08:00"
+      "last_success_at": "2026-11-28T12:47:44+08:00"
     },
     {
       "id": "tianjin",
-      "checked_at": "2026-11-27T13:06:44+08:00",
+      "checked_at": "2026-11-28T12:45:27+08:00",
       "state": "error",
       "errors": [
         {
@@ -431,7 +435,7 @@
     },
     {
       "id": "xinjiang",
-      "checked_at": "2026-11-27T13:09:39+08:00",
+      "checked_at": "2026-11-28T12:48:49+08:00",
       "state": "error",
       "errors": [
         {
@@ -449,7 +453,7 @@
     },
     {
       "id": "xizang",
-      "checked_at": "2026-11-27T13:09:08+08:00",
+      "checked_at": "2026-11-28T12:48:15+08:00",
       "state": "error",
       "errors": [
         {
@@ -463,7 +467,7 @@
     },
     {
       "id": "yunnan",
-      "checked_at": "2026-11-27T13:09:05+08:00",
+      "checked_at": "2026-11-28T12:48:13+08:00",
       "state": "error",
       "errors": [
         {
@@ -477,9 +481,13 @@
     },
     {
       "id": "zhejiang",
-      "checked_at": "2026-11-27T13:07:14+08:00",
+      "checked_at": "2026-11-28T12:46:12+08:00",
       "state": "ok",
       "errors": [
+        {
+          "url": "https://jinhua.com.cn/xw/1948102",
+          "message": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+        },
         {
           "url": "https://gwy.zjks.gov.cn/",
           "message": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'gwy.zjks.gov.cn'. (_ssl.c:1011)>"
@@ -489,14 +497,14 @@
           "message": "官网返回验证页面或不可用页面"
         }
       ],
-      "pages_checked": 2,
-      "notices_found": 2,
-      "last_success_at": "2026-11-27T13:07:14+08:00"
+      "pages_checked": 1,
+      "notices_found": 1,
+      "last_success_at": "2026-11-28T12:46:12+08:00"
     }
   ],
   "summary": {
     "checked": 32,
-    "readable": 12,
+    "readable": 10,
     "with_notices": 9
   }
 }
